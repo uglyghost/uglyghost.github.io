@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-陈星延, 工学博士, 讲师, 毕业于北京邮电大学。主要研究方向为分布式计算网络、实时流媒体传输和网络优化等，此外，对任何通信网络相关的新兴研究方向与技术都持开放态度。迄今在国内外知名期刊和会议发表论文20余篇, 其中包括IEEE INFOCOM、IEEE TMC、IEEE TMM、IEEE TCSVT等, 主持四川省科技厅项目青年基金项目, 申请授权国家专利5项, 编写专著1本。
+陈星延，工学博士，讲师，毕业于北京邮电大学。主要研究方向为分布式计算网络、实时流媒体传输和网络优化等，此外，对任何通信网络相关的新兴研究方向与技术都持开放态度。迄今在国内外知名期刊和会议发表论文20余篇，其中包括IEEE INFOCOM、IEEE TMC、IEEE TMM、IEEE TCSVT等，主持四川省科技厅项目青年基金项目，申请授权国家专利5项，编写专著1本。
  <a href='https://scholar.google.com/citations?user=zBfczkgAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。
 
 我的研究领域包括：
@@ -29,19 +29,26 @@ redirect_from:
 
 <span class='anchor' id='-xl'></span>
 
-# 💻 工作服务
-- *2021.09 - 至今*, 西南财经大学——计算机学院, 讲师, 四川成都
-
-在职期间，承担了图论及其应用、数值分析、操作系统、现代技术与人工智能课程的教学工作，获得四川省自然科学基金青年基金项目、西南财经大学引进人才科研启动的重点资助项目、中央高校基本科研业务的青年教师成长项目和四川省高校师资培训的优秀示范课学员。
-
-<span class='anchor' id='-gzsx'></span>
-
 # 🎓 学历
 
 - *2016.06 - 2022.12*, <a href="https://www.bupt.edu.cn/"><img class="svg" src="/images/bupt_logo.png" width="20pt"></a> 北京邮电大学 计算机学院, 北京, 推免直博 
 - *2012.09 - 2016.06*, <a href="https://www.bupt.edu.cn/"><img class="svg" src="/images/bupt_logo.png" width="20pt"></a> 北京邮电大学 理学院, 北京, 本科
- 
 <span class='anchor' id='-lwzl'></span>
+
+# 💻 工作服务
+- *2021.09 - 至今*  西南财经大学——计算机学院  讲师  四川成都
+
+在职期间，承担了图论及其应用、数值分析、操作系统、现代技术与人工智能课程的教学工作，获得四川省自然科学基金青年基金项目、西南财经大学引进人才科研启动的重点资助项目、中央高校基本科研业务的青年教师成长项目和四川省高校师资培训的优秀示范课学员。
+<span class='anchor' id='-gzsx'></span>
+
+# 🏛️ 科研项目
+- *2023.01-至今* 基于强化图学习的5G沉浸式视频传输机制 四川省自然科学基金——青年基金项目（10万） `项目主持人`  
+- *2022.01-2022.03* 新媒体技术——华为技术有限公司——合作研发项目（70万） `项目参与人（排名4）`
+- *2019.01-2022.12* 未来5G流媒体服务中知识驱动的缓存与交付机制研究——国家自然科学基金委员会面上项目（67万） `项目参与人（排名6）` 
+- *2019.01-2021.12* “十三五”全军共用信息系统——中央军委装备发展部装备预研项目（145万） `项目参与人` 
+- *2019.01-2021.12* 知识中心网络下知识分发关键技术——中国电子科技集团合作项目（70万） `项目参与人（排名8）` 
+- *2019.01-2022.12* 6G网络基础理论与核心技术研究——国家重点研发计划（1051万） `项目参与人（排名51）`
+<span class='anchor' id='-xshy'></span>
 
 # 📝 论文专利 
 
@@ -93,41 +100,16 @@ redirect_from:
 </div>
 
 
-- Bo Feng, Jianbo Wu, Hongming Tu, `Jian Tang`, Yihua Kang. A Review of Magnetic Flux Leakage Nondestructive Testing. *Materials*. 2022, 15 (20): 7362. (JCR:Q1; IF:3.748)  
-[[网页]](https://dx.doi.org/10.3390/ma15207362) [[预览]](https://github.com/uglyghost/uglyghost.github.io/tree/master/blob/pdf/FengB-2022-A%20Review%20of%20Magnetic%20Flux%20Leakage%20Nondestructive%20Testing.pdf) [[下载]](/pdf/FengB-2022-A%20Review%20of%20Magnetic%20Flux%20Leakage%20Nondestructive%20Testing.pdf)
-
-
-- Xin Jin, Hongbao Ma, `Jian Tang`, Yihua Kang, A Self-Adaptive Vibration Reduction Method Based on Deep Deterministic Policy Gradient (DDPG) Reinforcement Learning Algorithm. *Applied Sciences*. 2022,12(9): 9703. (JCR:Q2; IF:2.838)  
-[[网页]](https://dx.doi.org/10.3390/app12199703) [[预览]](https://github.com/uglyghost/uglyghost.github.io/tree/master/blob/pdf/JinX-2022-A%20Self-Adaptive%20Vibration%20Reduction%20Method%20Based%20on%20Deep%20Deterministic%20Policy.pdf) [[下载]](/pdf/JinX-2022-A%20Self-Adaptive%20Vibration%20Reduction%20Method%20Based%20on%20Deep%20Deterministic%20Policy.pdf)
-
-- Jikai Zhang, Yuewen Huang, `Jian Tang`, Fangfang Zhou, Yihua Kang, Bo Feng. Inspection of Cracks in the Piston Rod of a Hydraulic Cylinder Using Injected Alternating Current-Field Measurement. *Water*. 2022 14(17):2736. (JCR:Q2; IF:3.530)  
-[[网页]](https://dx.doi.org/10.3390/w14172736) [[预览]](https://github.com/uglyghost/uglyghost.github.io/tree/master/blob/pdf/ZhangJ-2022-Inspection%20of%20Cracks%20in%20the%20Piston%20Rod%20of%20a%20Hydraulic%20Cylinder%20Using%20Injected.pdf) [[下载]](/pdf/ZhangJ-2022-Inspection%20of%20Cracks%20in%20the%20Piston%20Rod%20of%20a%20Hydraulic%20Cylinder%20Using%20Injected.pdf)
-
--	Shenghan Wang, Bo Feng, `Jian Tang`, Yanting Chen, Yihua Kang. A Novel AC-MFL Probe Based on the Parallel Cables Magnetizing Technique. *Journal of Nondestructive Evaluation*, 2022, 41(2): 39. (JCR:Q2; IF:1.995)  
-[[网页]](https://dx.doi.org/10.1007/s10921-022-00872-3) [[预览]](https://github.com/uglyghost/uglyghost.github.io/tree/master/blob/pdf/WangS-2022-A%20Novel%20AC-MFL%20Probe%20Based%20on%20the%20Parallel%20Cables%20Magnetizing%20Technique.pdf) [[下载]](/pdf/WangS-2022-A%20Novel%20AC-MFL%20Probe%20Based%20on%20the%20Parallel%20Cables%20Magnetizing%20Technique.pdf)
-
--	Rongbiao Wang, Yihua Kang, `Jian Tang`, Bo Feng, Yongle Deng. A Novel Magnetic Flux Leakage Testing Method Based on AC and DC Composite Magnetization. *Journal of Nondestructive Evaluation*. 2020, 39(4): 84. (JCR:Q2; IF:1.995)  
-[[网页]](https://dx.doi.org/10.1007/s10921-020-00730-0) [[预览]](https://github.com/uglyghost/uglyghost.github.io/tree/master/blob/pdf/Wang-2020-A%20Novel%20Magnetic%20Flux%20Leakage%20Testing%20Method%20Based%20on%20AC%20and%20DC%20Composite.pdf) [[下载]](/pdf/Wang-2020-A%20Novel%20Magnetic%20Flux%20Leakage%20Testing%20Method%20Based%20on%20AC%20and%20DC%20Composite.pdf)
-
-- Rongbiao Wang, `Jian Tang`, Zhiyang Deng, Yihua Kang. Motion induced eddy current based testing method for the detection of circumferential defects under circumferential magnetization. *International Journal of Applied Electromagnetics and Mechanics*. 2020, 64(1–4): 501–508. (JCR:Q4; IF:0.706)  
-[[网页]](https://dx.doi.org/10.3233/JAE-209357) [[预览]](https://github.com/uglyghost/uglyghost.github.io/tree/master/blob/pdf/WangR-2020-Motion%20induced%20eddy%20current%20based%20testing%20method%20for%20the%20detection%20of.pdf) [[下载]](/pdf/WangR-2020-Motion%20induced%20eddy%20current%20based%20testing%20method%20for%20the%20detection%20of.pdf)
-
--	Rongbiao Wang, Zhiyang Deng, Rui Liu, Yihua Kang, Jikai Zhang, `Jian Tang`. A large lift-off nondestructive testing method based on the interaction between AC magnetic field and MFL field. *23rd International Workshop on Electromagnetic Nondestructive Evaluation*, ENDE 2018. Detroit, MI, United States: IOS Press. 2019: 44–49. (EI)  
-[[网页]](https://dx.doi.org/10.3233/SAEM190009) [[预览]](https://github.com/uglyghost/uglyghost.github.io/tree/master/blob/pdf/WangR-2019-A%20large%20lift-off%20nondestructive%20testing%20method%20based%20on%20the%20interaction%20between.pdf) [[下载]](/pdf/WangR-2019-A%20large%20lift-off%20nondestructive%20testing%20method%20based%20on%20the%20interaction%20between.pdf)
-
-- Xiaoming Huang, Jianbo Wu, Jie Wang, Rongbiao Wang, `Jian Tang`, Yihua Kang, Hui Fang. Signal Characteristics of Circular Induction Coil Influenced by Scanning Spatial Location in MFL. *Materials Evaluation*. 2018, 76(12):1647–59. (JCR:Q4; IF:0.554)  
-[[网页]](https://ndtlibrary.asnt.org/2018/SignalCharacteristicsofCircularInductionCoilInfluencedbyScanningSpatialLocationinMFL) [[预览]](https://github.com/uglyghost/uglyghost.github.io/tree/master/blob/pdf/Huang-2018-Signal%20Characteristics%20of%20Circular%20Induction%20Coil%20Influenced%20by%20Scanning.pdf) [[下载]](/pdf/Huang-2018-Signal%20Characteristics%20of%20Circular%20Induction%20Coil%20Influenced%20by%20Scanning.pdf)
-
--	Erlong Li, Yihua Kang, `Jian Tang`, Jianbo Wu. A new micro magnetic bridge probe in magnetic flux leakage for detecting micro-cracks. *Journal of Nondestructive Evaluation*. 2018, 37(3): 46. (JCR:Q2; IF:1.995)  
-[[网页]](https://dx.doi.org/10.1007/s10921-018-0499-8) [[预览]](https://github.com/uglyghost/uglyghost.github.io/tree/master/blob/pdf/Li-2018-A%20New%20Micro%20Magnetic%20Bridge%20Probe%20in%20Magnetic%20Flux%20Leakage%20for%20Detecting.pdf) [[下载]](/pdf/Li-2018-A%20New%20Micro%20Magnetic%20Bridge%20Probe%20in%20Magnetic%20Flux%20Leakage%20for%20Detecting.pdf)
-
--	Erlong Li, Yihua Kang, `Jian Tang`, Jianbo Wu, Xizi Yan. Analysis on Spatial Spectrum of Magnetic Flux Leakage Using Fourier Transform. *IEEE Transactions on Magnetics*. 2018, 54(8): 1–10. (JCR:Q3; IF:1.700)  
-[[网页]](https://dx.doi.org/10.1109/TMAG.2018.2844220) [[预览]](https://github.com/uglyghost/uglyghost.github.io/tree/master/blob/pdf/LiE-2018-Analysis%20on%20Spatial%20Spectrum%20of%20Magnetic%20Flux%20Leakage%20Using%20Fourier%20Transform.pdf) [[下载]](/pdf/LiE-2018-Analysis%20on%20Spatial%20Spectrum%20of%20Magnetic%20Flux%20Leakage%20Using%20Fourier%20Transform.pdf)
+- `Xingyan Chen`, Changqiao Xu, Mu Wang, Tengfei Cao, Lujie Zhong, Gabriel-Miro Muntean. Optimal Coded Caching in 5G Information-Centric Device-to-Device Communications. *2018 IEEE Global Communications Conference (GLOBECOM)*, Abu Dhabi, United Arab Emirates, 2018, pp. 1-7. (CCF C)  
+[[网页]](https://ieeexplore.ieee.org/document/8647705) [[预览]](https://github.com/uglyghost/uglyghost.github.io/tree/master/blob/pdf/IEEE_GLOBECOM_2018.pdf) [[下载]](/pdf/IEEE_GLOBECOM_2018.pdf)
+- 
+- `Xingyan Chen`, Changqiao Xu, Mu Wang, Tengfei Cao, Lujie Zhong, Gabriel-Miro Muntean. Optimal Coded Caching in 5G Information-Centric Device-to-Device Communications. *2018 IEEE Global Communications Conference (GLOBECOM)*, Abu Dhabi, United Arab Emirates, 2018, pp. 1-7. (CCF C)  
+[[网页]](https://ieeexplore.ieee.org/document/8647705) [[预览]](https://github.com/uglyghost/uglyghost.github.io/tree/master/blob/pdf/IEEE_GLOBECOM_2018.pdf) [[下载]](/pdf/IEEE_GLOBECOM_2018.pdf)
 
 ### 中文
 ---
 
-- 	`唐健`，王荣彪，康宜华. 大提离漏磁无损检测方法. *无损检测*. 2022,44(4): 67. (核心期刊)  
+- 	`陈星延`，张雪松，谢志龙，赵宇，吴钢. 面向“云-边-端”算力系统的计算和传输联合优化方法. *计算机研究与发展*, 2023, 60(4): 1-1. (核心期刊)  
 [[网页]](https://dx.doi.org/10.11973/wsjc202204000) [[预览]](https://github.com/uglyghost/uglyghost.github.io/tree/master/blob/pdf/%E5%94%90%E5%81%A5-2022-%E5%A4%A7%E6%8F%90%E7%A6%BB%E6%BC%8F%E7%A3%81%E6%97%A0%E6%8D%9F%E6%A3%80%E6%B5%8B%E6%96%B9%E6%B3%95.pdf) [[下载]](/pdf/%E5%94%90%E5%81%A5-2022-%E5%A4%A7%E6%8F%90%E7%A6%BB%E6%BC%8F%E7%A3%81%E6%97%A0%E6%8D%9F%E6%A3%80%E6%B5%8B%E6%96%B9%E6%B3%95.pdf)  
 
 - ### 专利
@@ -144,24 +126,9 @@ redirect_from:
 
 <span class='anchor' id='-ryjx'></span>
 
-# 🏅 科研项目
-- *2023.01-至今* 基于强化图学习的5G沉浸式视频传输机制 四川省自然科学基金——青年基金项目（10万） `项目主持人`  
-- *2022.01-2022.03* 新媒体技术——华为技术有限公司——合作研发项目（70万） `项目参与人（排名4）`
-- *2019.01-2022.12* 未来5G流媒体服务中知识驱动的缓存与交付机制研究——国家自然科学基金委员会面上项目（67万） `项目参与人（排名6）` 
-- *2019.01-2021.12* “十三五”全军共用信息系统——中央军委装备发展部装备预研项目（145万） `项目参与人` 
-- *2019.01-2021.12* 知识中心网络下知识分发关键技术——中国电子科技集团合作项目（70万） `项目参与人（排名8）` 
-- *2019.01-2022.12* 6G网络基础理论与核心技术研究——国家重点研发计划（1051万） `项目参与人（排名51）`
-
-<span class='anchor' id='-xshy'></span>
-
 # 🏅 荣誉奖项
 - *2021.06* 获得 北京邮电大学优秀博士毕业生 
 - *2019.01* 获得 北京邮电大学优秀博士基金
 - *2017.06* 获得 中国研究生数学建模竞赛三等奖 `三等奖`  
 
 <span class='anchor' id='-xshy'></span>
-
-# 🏛️ 学术会议
-- *2021.10*, 全国电磁无损检测技术研讨会 暨 中国机械工程学会无损检测分会电磁专业技术大会第十一届第四次全体会议, 陕西西安, 受邀报告
-- *2019.09*, 第十九届国际应用电磁学与力学会议 (ISEM 2019), 江苏南京, 海报
-- *2017.10*, 第六届中国国际管道会议 (CIPC 2017), 河北廊坊
