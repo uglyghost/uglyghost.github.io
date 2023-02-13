@@ -60,8 +60,7 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TMM 2023</div><img src='blob/png/IEEE_TMM_2023_FedLive.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	`Xingyan Chen`, Mu Wang, Changqiao Xu, Yu Zhao, Yang Shujie, Ke Jiang, Qing Li, Lujie Zhong, Gabriel-Miro Muntean. FedLive: A Federated Transmission Framework for Panoramic Livecast with Reinforced Variational Inference. *IEEE Transactions on Multimedia*, 2023, Early Access. (SCI:Q1; IF:8.182)  
-[[网页]](https://ieeexplore.ieee.org/document/10018245) [[预览]](https://github.com/uglyghost/uglyghost.github.io/tree/master/blob/pdf/IEEE_TMM_2023_FedLive.pdf) [[代码]](https://github.com/uglyghost/FedLive)
+-	`Xingyan Chen`, Mu Wang, Changqiao Xu, Yu Zhao, Yang Shujie, Ke Jiang, Qing Li, Lujie Zhong, Gabriel-Miro Muntean. FedLive: A Federated Transmission Framework for Panoramic Livecast with Reinforced Variational Inference. *IEEE Transactions on Multimedia*, 2023, Early Access. (SCI:Q1; IF:8.182)[[网页]](https://ieeexplore.ieee.org/document/10018245) [[预览]](https://github.com/uglyghost/uglyghost.github.io/tree/master/blob/pdf/IEEE_TMM_2023_FedLive.pdf) [[代码]](https://github.com/uglyghost/FedLive)
 
 </div>
 </div>
@@ -69,8 +68,7 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TMC 2022</div><img src='blob/png/IEEE_TMC_2022_MCCVR.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	Lujie Zhong, `Xingyan Chen*`, Changqiao Xu, Yunxiao Ma, Mu Wang, Yu Zhao, Gabriel-Miro Muntean. A Multi-user Cost-efficient Crowd-assisted VR Content Delivery Solution in 5G-and-beyond Heterogeneous Networks. *IEEE Transactions on Mobile Computing*, 2022, Early Access. (CCF A; IF:6.075)  
-[[网页]](https://ieeexplore.ieee.org/document/9741351) [[预览]](https://github.com/uglyghost/uglyghost.github.io/tree/master/blob/pdf/IEEE_TMC_2022_MCCVR.pdf) 
+-	Lujie Zhong, `Xingyan Chen*`, Changqiao Xu, Yunxiao Ma, Mu Wang, Yu Zhao, Gabriel-Miro Muntean. A Multi-user Cost-efficient Crowd-assisted VR Content Delivery Solution in 5G-and-beyond Heterogeneous Networks. *IEEE Transactions on Mobile Computing*, 2022, Early Access. (CCF A; IF:6.075)[[网页]](https://ieeexplore.ieee.org/document/9741351) [[预览]](https://github.com/uglyghost/uglyghost.github.io/tree/master/blob/pdf/IEEE_TMC_2022_MCCVR.pdf) 
 
 </div>
 </div>
@@ -78,8 +76,7 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE ICME 2022</div><img src='blob/png/IEEE_ICME_2022_COLIVE.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	Mu Wang, Shuai Peng, `Xingyan Chen*`, Yu Zhao, Mingwei Xu, Changqiao Xu. CoLive: An Edge-Assisted Online Learning Framework for Viewport Prediction in 360° Live Streaming. *2022 IEEE International Conference on Multimedia and Expo (ICME)*, Taipei, Taiwan, 2022, pp. 1-6. (CCF B)  
-[[网页]](https://ieeexplore.ieee.org/document/9488868) [[预览]](https://github.com/uglyghost/uglyghost.github.io/tree/master/blob/pdf/IEEE_ICME_2022_COLIVE.pdf) [[代码]](https://gitee.com/uglyghost123/conv-lstm)
+-	Mu Wang, Shuai Peng, `Xingyan Chen*`, Yu Zhao, Mingwei Xu, Changqiao Xu. CoLive: An Edge-Assisted Online Learning Framework for Viewport Prediction in 360° Live Streaming. *2022 IEEE International Conference on Multimedia and Expo (ICME)*, Taipei, Taiwan, 2022, pp. 1-6. (CCF B)[[网页]](https://ieeexplore.ieee.org/document/9488868) [[预览]](https://github.com/uglyghost/uglyghost.github.io/tree/master/blob/pdf/IEEE_ICME_2022_COLIVE.pdf) [[代码]](https://gitee.com/uglyghost123/conv-lstm)
 
 </div>
 </div>
@@ -87,8 +84,7 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE INFOCOM 2021</div><img src='blob/png/IEEE_INFOCOM_2021_AGRL.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	`Xingyan Chen`, Changqiao Xu, Mu Wang, Zhonghui Wu, Shujie Yang, Lujie Zhong, Gabriel-Miro Muntean. A Universal Transcoding and Transmission Method for Livecast with Networked Multi-Agent Reinforcement Learning. *IEEE INFOCOM 2021 - IEEE Conference on Computer Communications*, BC, Canada, 2021, pp. 1-10. (CCF A)  
-[[网页]](https://ieeexplore.ieee.org/document/9488868) [[预览]](https://github.com/uglyghost/uglyghost.github.io/tree/master/blob/pdf/IEEE_INFOCOM_2021_AGRL.pdf) [[代码]](/pdf/IEEE_INFOCOM_2021_AGRL.pdf)
+-	`Xingyan Chen`, Changqiao Xu, Mu Wang, Zhonghui Wu, Shujie Yang, Lujie Zhong, Gabriel-Miro Muntean. A Universal Transcoding and Transmission Method for Livecast with Networked Multi-Agent Reinforcement Learning. *IEEE INFOCOM 2021 - IEEE Conference on Computer Communications*, BC, Canada, 2021, pp. 1-10. (CCF A)[[网页]](https://ieeexplore.ieee.org/document/9488868) [[预览]](https://github.com/uglyghost/uglyghost.github.io/tree/master/blob/pdf/IEEE_INFOCOM_2021_AGRL.pdf) [[代码]](/pdf/IEEE_INFOCOM_2021_AGRL.pdf)
 
 </div>
 </div>
@@ -96,8 +92,7 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TCSVT 2021</div><img src='blob/png/IEEE_TCSVT_2021_AGO.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	`Xingyan Chen`, Changqiao Xu, Mu Wang, Zhonghui Wu, Lujie Zhong, Luigi Alfredo Grieco. Augmented Queue-Based Transmission and Transcoding Optimization for Livecast Services Based on Cloud-Edge-Crowd Integration. *IEEE Transactions on Circuits and Systems for Video Technology*, 2021, vol. 31, no. 11, pp. 4470-4484. (SCI:Q1; IF:5.859)  
-[[网页]](https://ieeexplore.ieee.org/document/9309395) [[预览]](https://github.com/uglyghost/uglyghost.github.io/tree/master/blob/pdf/IEEE_TCSVT_2021_AGO.pdf) [[代码]](https://github.com/uglyghost/AG-LayCast)
+-	`Xingyan Chen`, Changqiao Xu, Mu Wang, Zhonghui Wu, Lujie Zhong, Luigi Alfredo Grieco. Augmented Queue-Based Transmission and Transcoding Optimization for Livecast Services Based on Cloud-Edge-Crowd Integration. *IEEE Transactions on Circuits and Systems for Video Technology*, 2021, vol. 31, no. 11, pp. 4470-4484. (SCI:Q1; IF:5.859)[[网页]](https://ieeexplore.ieee.org/document/9309395) [[预览]](https://github.com/uglyghost/uglyghost.github.io/tree/master/blob/pdf/IEEE_TCSVT_2021_AGO.pdf) [[代码]](https://github.com/uglyghost/AG-LayCast)
 
 </div>
 </div>
@@ -105,61 +100,45 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TKDE 2023</div><img src='blob/png/IEEE_TKDE_2023.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	Yu Zhao, Shaopeng Wei, Huaming Du, `Xingyan Chen`, Qing Li, Fuzhen Zhuang, Ji Liu, Gang Kou. Learning Bi-typed Multi-relational Heterogeneous Graph via Dual Hierarchical Attention Networks. *IEEE Transactions on Knowledge and Data Engineering*, Early Access. (CCF A, IF:9.235)
-[[网页]](https://ieeexplore.ieee.org/document/9954185) [[预览]](https://github.com/uglyghost/uglyghost.github.io/tree/master/blob/pdf/IEEE_TKDE_2023.pdf)
+-	Yu Zhao, Shaopeng Wei, Huaming Du, `Xingyan Chen`, Qing Li, Fuzhen Zhuang, Ji Liu, Gang Kou. Learning Bi-typed Multi-relational Heterogeneous Graph via Dual Hierarchical Attention Networks. *IEEE Transactions on Knowledge and Data Engineering*, Early Access. (CCF A, IF:9.235)[[网页]](https://ieeexplore.ieee.org/document/9954185) [[预览]](https://github.com/uglyghost/uglyghost.github.io/tree/master/blob/pdf/IEEE_TKDE_2023.pdf)
 
 </div>
 </div>
 
-- `Xingyan Chen`, Changqiao Xu, Mu Wang, Tengfei Cao, Lujie Zhong, Gabriel-Miro Muntean. Optimal Coded Caching in 5G Information-Centric Device-to-Device Communications. *2018 IEEE Global Communications Conference (GLOBECOM)*, Abu Dhabi, United Arab Emirates, 2018, pp. 1-7. (CCF C)  
-[[网页]](https://ieeexplore.ieee.org/document/8647705)
+- `Xingyan Chen`, Changqiao Xu, Mu Wang, Tengfei Cao, Lujie Zhong, Gabriel-Miro Muntean. Optimal Coded Caching in 5G Information-Centric Device-to-Device Communications. *2018 IEEE Global Communications Conference (GLOBECOM)*, Abu Dhabi, United Arab Emirates, 2018, pp. 1-7. (CCF C)[[网页]](https://ieeexplore.ieee.org/document/8647705)
 
-- `Xingyan Chen`, Mu Wang, Changqiao Xu, Shijie Jia. Energy-Aware Fast Interest Forwarding for Multimedia Streaming over ICN 5G-D2D. *Image and Graphics: 9th International Conference, ICIG 2017*, 2017, Shanghai, China, pp. 353-365.  
-[[网页]](https://link.springer.com/chapter/10.1007/978-3-319-71589-6_31)
+- `Xingyan Chen`, Mu Wang, Changqiao Xu, Shijie Jia. Energy-Aware Fast Interest Forwarding for Multimedia Streaming over ICN 5G-D2D. *Image and Graphics: 9th International Conference, ICIG 2017*, 2017, Shanghai, China, pp. 353-365.[[网页]](https://link.springer.com/chapter/10.1007/978-3-319-71589-6_31)
 
-- Yu Zhao, Huali Feng, Han Zhou, Yanruo Yang, `Xingyan Chen*`, Ruobing Xie, Fuzhen Zhuang, Qing Li. EIGAT: Incorporating Global Information in Local Attention for Knowledge Representation Learning. *Knowledge-Based Systems*, 2022, vol. 237, no. 15, pp. 107909. (SCI:Q1, IF:8.139)  
-[[网页]](https://www.sciencedirect.com/science/article/abs/pii/S0950705121010649)
+- Yu Zhao, Huali Feng, Han Zhou, Yanruo Yang, `Xingyan Chen*`, Ruobing Xie, Fuzhen Zhuang, Qing Li. EIGAT: Incorporating Global Information in Local Attention for Knowledge Representation Learning. *Knowledge-Based Systems*, 2022, vol. 237, no. 15, pp. 107909. (SCI:Q1, IF:8.139)[[网页]](https://www.sciencedirect.com/science/article/abs/pii/S0950705121010649)
 
-- Mu Wang, Changqiao Xu, `Xingyan Chen`, Hao Hao, Lujie Zhong, Shui Yu. Differential Privacy Oriented Distributed Online Learning for Mobile Social Video Prefetching. *IEEE Transactions on Multimedia*, 2019, vol. 21, no. 3, pp. 636-651. (SCI:Q1, IF:8.182)  
-[[网页]](https://ieeexplore.ieee.org/document/8610120)
+- Mu Wang, Changqiao Xu, `Xingyan Chen`, Hao Hao, Lujie Zhong, Shui Yu. Differential Privacy Oriented Distributed Online Learning for Mobile Social Video Prefetching. *IEEE Transactions on Multimedia*, 2019, vol. 21, no. 3, pp. 636-651. (SCI:Q1, IF:8.182)[[网页]](https://ieeexplore.ieee.org/document/8610120)
 
-- Changqiao Xu, Mu Wang, `Xingyan Chen`, Lujie Zhong, Luigi Alfredo Grieco. Optimal Information Centric Caching in 5G Device-to-Device Communications. *IEEE Transactions on Mobile Computing*, 2018, vol. 17, no. 9, pp. 636-651. (CCF A, IF:6.075)  
-[[网页]](https://ieeexplore.ieee.org/document/8263145)
+- Changqiao Xu, Mu Wang, `Xingyan Chen`, Lujie Zhong, Luigi Alfredo Grieco. Optimal Information Centric Caching in 5G Device-to-Device Communications. *IEEE Transactions on Mobile Computing*, 2018, vol. 17, no. 9, pp. 636-651. (CCF A, IF:6.075)[[网页]](https://ieeexplore.ieee.org/document/8263145)
 
-- Mu Wang, Changqiao Xu, `Xingyan Chen`, Lujie Zhong, Zhonghui Wu, Dapeng Oliver Wu. BC-Mobile Device Cloud: A Blockchain-Based Decentralized Truthful Framework for Mobile Device Cloud. *IEEE Transactions on Industrial Informatics*, 2020, vol. 17, no. 2, pp. 1208-1219. (SCI:Q1, IF:11.648)  
-[[网页]](https://ieeexplore.ieee.org/document/9051813)
+- Mu Wang, Changqiao Xu, `Xingyan Chen`, Lujie Zhong, Zhonghui Wu, Dapeng Oliver Wu. BC-Mobile Device Cloud: A Blockchain-Based Decentralized Truthful Framework for Mobile Device Cloud. *IEEE Transactions on Industrial Informatics*, 2020, vol. 17, no. 2, pp. 1208-1219. (SCI:Q1, IF:11.648)[[网页]](https://ieeexplore.ieee.org/document/9051813)
 
-- Mu Wang, Changqiao Xu, `Xingyan Chen`, Hao Hao, Lujie Zhong, Dapeng Oliver Wu. Design of Multipath Transmission Control for Information-Centric Internet of Things: A Distributed Stochastic Optimization Framework. *IEEE Internet of Things Journal*, 2019, vol. 6, no. 6, pp. 9475-9488. (JCR:Q1, IF:10.238)  
-[[网页]](https://ieeexplore.ieee.org/document/8765620) [[代码]](https://gitee.com/uglyghost123/flow-control-matlab)
+- Mu Wang, Changqiao Xu, `Xingyan Chen`, Hao Hao, Lujie Zhong, Dapeng Oliver Wu. Design of Multipath Transmission Control for Information-Centric Internet of Things: A Distributed Stochastic Optimization Framework. *IEEE Internet of Things Journal*, 2019, vol. 6, no. 6, pp. 9475-9488. (JCR:Q1, IF:10.238)[[网页]](https://ieeexplore.ieee.org/document/8765620) [[代码]](https://gitee.com/uglyghost123/flow-control-matlab)
 
-- Mu Wang, Changqiao Xu, `Xingyan Chen`, Lujie Zhong, Gabriel-Miro Muntean. Decentralized asynchronous optimization for dynamic adaptive multimedia streaming over information centric networking. *Journal of Network and Computer Applications*, 2020, vol. 157, no. 1, pp. 102574. (JCR:Q1, IF:7.574)  
-[[网页]](https://www.sciencedirect.com/science/article/abs/pii/S1084804520300485) [[代码]](https://github.com/uglyghost/AG-LayCast)
+- Mu Wang, Changqiao Xu, `Xingyan Chen`, Lujie Zhong, Gabriel-Miro Muntean. Decentralized asynchronous optimization for dynamic adaptive multimedia streaming over information centric networking. *Journal of Network and Computer Applications*, 2020, vol. 157, no. 1, pp. 102574. (JCR:Q1, IF:7.574)[[网页]](https://www.sciencedirect.com/science/article/abs/pii/S1084804520300485) [[代码]](https://github.com/uglyghost/AG-LayCast)
 
-- Zhonghui Wu, `Xingyan Chen`, Changqiao Xu, Shujie Yang. Nesterov Accelerated Gradient-based Algorithm for the Allocation Problem of NFV Service. *2020 International Conference on Networking and Network Applications (NaNA)*, 2020, Haikou City, China, pp. 1-6.
-[[网页]](https://ieeexplore.ieee.org/document/9353771)
+- Zhonghui Wu, `Xingyan Chen`, Changqiao Xu, Shujie Yang. Nesterov Accelerated Gradient-based Algorithm for the Allocation Problem of NFV Service. *2020 International Conference on Networking and Network Applications (NaNA)*, 2020, Haikou City, China, pp. 1-6.[[网页]](https://ieeexplore.ieee.org/document/9353771)
 
-- Tao Zhang, `Xingyan Chen`, Changqiao Xu. Intelligent Routing Algorithm Based on Deep Belief Network for Multimedia Service in Knowledge Centric VANETs. *2018 International Conference on Networking and Network Applications (NaNA)*, 2018, Xi'an, China, pp. 1-6.
-[[网页]](https://ieeexplore.ieee.org/document/9353771)
+- Tao Zhang, `Xingyan Chen`, Changqiao Xu. Intelligent Routing Algorithm Based on Deep Belief Network for Multimedia Service in Knowledge Centric VANETs. *2018 International Conference on Networking and Network Applications (NaNA)*, 2018, Xi'an, China, pp. 1-6.[[网页]](https://ieeexplore.ieee.org/document/9353771)
 
-- Yunxiao Ma, Changqiao Xu, `Xingyan Chen`, Han Xiao, Lujie Zhong, Gabriel-Miro Muntean. Fairness-Guaranteed Transcoding Task Assignment for Viewer-Assisted Crowdsourced Livecast Services. *ICC 2021 - IEEE International Conference on Communications*, 2021, QC, Canada, pp. 1-6. (CCF C)
-[[网页]](https://ieeexplore.ieee.org/document/9500257)
+- Yunxiao Ma, Changqiao Xu, `Xingyan Chen`, Han Xiao, Lujie Zhong, Gabriel-Miro Muntean. Fairness-Guaranteed Transcoding Task Assignment for Viewer-Assisted Crowdsourced Livecast Services. *ICC 2021 - IEEE International Conference on Communications*, 2021, QC, Canada, pp. 1-6. (CCF C)[[网页]](https://ieeexplore.ieee.org/document/9500257)
 
-- Tengfei Cao, Changqiao Xu, Mu Wang, `Xingyan Chen`, Lujie Zhong, Gabriel-Miro Muntean. Family-Aware Pricing Strategy for Accelerating Video Dissemination over Information-Centric Vehicular Networks. *2018 IEEE International Conference on Communications (ICC)*, 2018, Kansas City, MO, USA, pp. 1-7.  (CCF C)
-[[网页]](https://ieeexplore.ieee.org/document/8422411)
+- Tengfei Cao, Changqiao Xu, Mu Wang, `Xingyan Chen`, Lujie Zhong, Gabriel-Miro Muntean. Family-Aware Pricing Strategy for Accelerating Video Dissemination over Information-Centric Vehicular Networks. *2018 IEEE International Conference on Communications (ICC)*, 2018, Kansas City, MO, USA, pp. 1-7.  (CCF C)[[网页]](https://ieeexplore.ieee.org/document/8422411)
 
-- Yu Zhao, Huaming Du, Ying Liu, Shaopeng Wei, `Xingyan Chen`, Fuzhen Zhuang, Qing Li, Gang Kou. Stock Movement Prediction Based on Bi-Typed Hybrid-Relational Market Knowledge Graph Via Dual Attention Networks. *IEEE Transactions on Knowledge and Data Engineering*, Early Access. (CCF A, IF:9.235)
-[[网页]](https://ieeexplore.ieee.org/document/9942340)
+- Yu Zhao, Huaming Du, Ying Liu, Shaopeng Wei, `Xingyan Chen`, Fuzhen Zhuang, Qing Li, Gang Kou. Stock Movement Prediction Based on Bi-Typed Hybrid-Relational Market Knowledge Graph Via Dual Attention Networks. *IEEE Transactions on Knowledge and Data Engineering*, Early Access. (CCF A, IF:9.235)[[网页]](https://ieeexplore.ieee.org/document/9942340)
 
-- Tengfei Cao, Changqiao Xu, Mu Wang, Zhongbai Jiang, `Xingyan Chen`, Lujie Zhong, Luigi Alfredo Grieco. Stochastic Optimization for Green Multimedia Services in Dense 5G Networks. *ACM Transactions on Multimedia Computing, Communications, and Applications*, 2019, vol. 15, no. 3, pp. 1-22. (CCF B, IF:4.094)  
-[[网页]](https://dl.acm.org/doi/10.1145/3328996)
+- Tengfei Cao, Changqiao Xu, Mu Wang, Zhongbai Jiang, `Xingyan Chen`, Lujie Zhong, Luigi Alfredo Grieco. Stochastic Optimization for Green Multimedia Services in Dense 5G Networks. *ACM Transactions on Multimedia Computing, Communications, and Applications*, 2019, vol. 15, no. 3, pp. 1-22. (CCF B, IF:4.094)[[网页]](https://dl.acm.org/doi/10.1145/3328996)
 
 ### 投稿论文
 ---
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TCSVT 2021</div><img src='blob/png/IEEE_TCSVT_2023.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	`Xingyan Chen`, Huaming Du, Mu Wang, Changqiao Xu, Yu Zhao, Qing Li, Gabriel-Miro Muntean. GL360: Graph Representation Learning based FoV Prediction for 360° Live Video Streaming. *IEEE Transactions on Circuits and Systems for Video Technology*, Submitted. (SCI:Q1, IF:5.859)
-[[代码]](https://github.com/uglyghost/GNNlive) 
+-	`Xingyan Chen`, Huaming Du, Mu Wang, Changqiao Xu, Yu Zhao, Qing Li, Gabriel-Miro Muntean. GL360: Graph Representation Learning based FoV Prediction for 360° Live Video Streaming. *IEEE Transactions on Circuits and Systems for Video Technology*, Submitted. (SCI:Q1, IF:5.859)[[代码]](https://github.com/uglyghost/GNNlive) 
 
 </div>
 </div>
@@ -170,8 +149,7 @@ AWTE-BERT: Attending to Wordpiece Tokenization Explicitly on BERT for Joint Inte
 
 ### 中文
 ---
-- `陈星延`，张雪松，谢志龙，赵宇，吴钢. 面向“云-边-端”算力系统的计算和传输联合优化方法. *计算机研究与发展*, 2023, 60(4): 1-1. (核心期刊)  
-[[网页]](https://crad.ict.ac.cn/CN/volumn/volumn_1368.shtml)  
+- `陈星延`，张雪松，谢志龙，赵宇，吴钢. 面向“云-边-端”算力系统的计算和传输联合优化方法. *计算机研究与发展*, 2023, 60(4): 1-1. (核心期刊)[[网页]](https://crad.ict.ac.cn/CN/volumn/volumn_1368.shtml) [[代码]](https://gitee.com/uglyghost123/MultNodeVirtualLive) 
 
 ### 专利
 ---
