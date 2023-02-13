@@ -29,17 +29,17 @@ redirect_from:
 
 <span class='anchor' id='-xl'></span>
 
-# 🎓 学历
-
-- *2016.06 - 2022.12*, <a href="https://www.bupt.edu.cn/"><img class="svg" src="/images/bupt_logo.png" width="20pt"></a> 北京邮电大学 计算机学院, 北京, 推免直博 
-- *2012.09 - 2016.06*, <a href="https://www.bupt.edu.cn/"><img class="svg" src="/images/bupt_logo.png" width="20pt"></a> 北京邮电大学 理学院, 北京, 本科
-<span class='anchor' id='-lwzl'></span>
-
 # 💻 工作服务
 - *2021.09 - 至今*  西南财经大学——计算机学院  讲师  四川成都
 
 在职期间，承担了图论及其应用、数值分析、操作系统、现代技术与人工智能课程的教学工作，获得四川省自然科学基金青年基金项目、西南财经大学引进人才科研启动的重点资助项目、中央高校基本科研业务的青年教师成长项目和四川省高校师资培训的优秀示范课学员。
 <span class='anchor' id='-gzsx'></span>
+
+# 🎓 学历
+
+- *2016.06 - 2022.12*, <a href="https://www.bupt.edu.cn/"><img class="svg" src="/images/bupt_logo.png" width="20pt"></a> 北京邮电大学 计算机学院, 北京, 推免直博 
+- *2012.09 - 2016.06*, <a href="https://www.bupt.edu.cn/"><img class="svg" src="/images/bupt_logo.png" width="20pt"></a> 北京邮电大学 理学院, 北京, 本科
+<span class='anchor' id='-lwzl'></span>
 
 # 🏛️ 科研项目
 - *2023.01-至今* 基于强化图学习的5G沉浸式视频传输机制 四川省自然科学基金——青年基金项目（10万） `项目主持人`  
