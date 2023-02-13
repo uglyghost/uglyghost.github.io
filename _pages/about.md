@@ -124,19 +124,19 @@ redirect_from:
 - Zhonghui Wu, `Xingyan Chen`, Changqiao Xu, Shujie Yang. Nesterov Accelerated Gradient-based Algorithm for the Allocation Problem of NFV Service. *2020 International Conference on Networking and Network Applications (NaNA)*, 2020, Haikou City, China, pp. 1-6.
 [[网页]](https://ieeexplore.ieee.org/document/9353771)
 
-- Yunxiao Ma, Changqiao Xu, `Xingyan Chen`, Han Xiao, Lujie Zhong, Gabriel-Miro Muntean. Fairness-Guaranteed Transcoding Task Assignment for Viewer-Assisted Crowdsourced Livecast Services. *ICC 2021 - IEEE International Conference on Communications*, 2021, QC, Canada, pp. 1-6.
+- Yunxiao Ma, Changqiao Xu, `Xingyan Chen`, Han Xiao, Lujie Zhong, Gabriel-Miro Muntean. Fairness-Guaranteed Transcoding Task Assignment for Viewer-Assisted Crowdsourced Livecast Services. *ICC 2021 - IEEE International Conference on Communications*, 2021, QC, Canada, pp. 1-6. (CCF C)
 [[网页]](https://ieeexplore.ieee.org/document/9500257)
 
-- Yu Zhao, Shaopeng Wei, Huaming Du, `Xingyan Chen`, Qing Li, Fuzhen Zhuang, Ji Liu, Gang Kou. Learning Bi-typed Multi-relational Heterogeneous Graph via Dual Hierarchical Attention Networks. *IEEE Transactions on Knowledge and Data Engineering*, Early Access.
+- Yu Zhao, Shaopeng Wei, Huaming Du, `Xingyan Chen`, Qing Li, Fuzhen Zhuang, Ji Liu, Gang Kou. Learning Bi-typed Multi-relational Heterogeneous Graph via Dual Hierarchical Attention Networks. *IEEE Transactions on Knowledge and Data Engineering*, Early Access. (CCF A, IF:9.235)
 [[网页]](https://ieeexplore.ieee.org/document/9954185)
 
-- Tengfei Cao, Changqiao Xu, Mu Wang, `Xingyan Chen`, Lujie Zhong, Gabriel-Miro Muntean. Family-Aware Pricing Strategy for Accelerating Video Dissemination over Information-Centric Vehicular Networks. *2018 IEEE International Conference on Communications (ICC)*, 2018, Kansas City, MO, USA, pp. 1-7.
+- Tengfei Cao, Changqiao Xu, Mu Wang, `Xingyan Chen`, Lujie Zhong, Gabriel-Miro Muntean. Family-Aware Pricing Strategy for Accelerating Video Dissemination over Information-Centric Vehicular Networks. *2018 IEEE International Conference on Communications (ICC)*, 2018, Kansas City, MO, USA, pp. 1-7.  (CCF C)
 [[网页]](https://ieeexplore.ieee.org/document/8422411)
 
-- Yu Zhao, Huaming Du, Ying Liu, Shaopeng Wei, `Xingyan Chen`, Fuzhen Zhuang, Qing Li, Gang Kou. Stock Movement Prediction Based on Bi-Typed Hybrid-Relational Market Knowledge Graph Via Dual Attention Networks. *IEEE Transactions on Knowledge and Data Engineering*, Early Access.
+- Yu Zhao, Huaming Du, Ying Liu, Shaopeng Wei, `Xingyan Chen`, Fuzhen Zhuang, Qing Li, Gang Kou. Stock Movement Prediction Based on Bi-Typed Hybrid-Relational Market Knowledge Graph Via Dual Attention Networks. *IEEE Transactions on Knowledge and Data Engineering*, Early Access. (CCF A, IF:9.235)
 [[网页]](https://ieeexplore.ieee.org/document/9942340)
 
-- Tengfei Cao, Changqiao Xu, Mu Wang, Zhongbai Jiang, `Xingyan Chen`, Lujie Zhong, Luigi Alfredo Grieco. Stochastic Optimization for Green Multimedia Services in Dense 5G Networks. *ACM Transactions on Multimedia Computing, Communications, and Applications*, 2019, vol. 15, no. 3, pp. 1-22. (JCR:Q1, IF:7.574)  
+- Tengfei Cao, Changqiao Xu, Mu Wang, Zhongbai Jiang, `Xingyan Chen`, Lujie Zhong, Luigi Alfredo Grieco. Stochastic Optimization for Green Multimedia Services in Dense 5G Networks. *ACM Transactions on Multimedia Computing, Communications, and Applications*, 2019, vol. 15, no. 3, pp. 1-22. (CCF B, IF:4.094)  
 [[网页]](https://dl.acm.org/doi/10.1145/3328996)
 
 ### 中文
