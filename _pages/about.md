@@ -60,7 +60,7 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TMM 2023</div><img src='blob/png/IEEE_TMM_2023_FedLive.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	`Xingyan Chen`, Mu Wang, Changqiao Xu, Yu Zhao, Yang Shujie, Ke Jiang, Qing Li, Lujie Zhong, Gabriel-Miro Muntean. FedLive: A Federated Transmission Framework for Panoramic Livecast with Reinforced Variational Inference. *IEEE Transactions on Multimedia*, 2023, Early Access. (SCI:Q1; IF:8.182)[[网页]](https://ieeexplore.ieee.org/document/10018245) [[预览]](https://github.com/uglyghost/uglyghost.github.io/tree/master/blob/pdf/IEEE_TMM_2023_FedLive.pdf) [[代码]](https://github.com/uglyghost/FedLive)
+-	`Xingyan Chen`, Mu Wang, Changqiao Xu, Yu Zhao, Yang Shujie, Ke Jiang, Qing Li, Lujie Zhong, Gabriel-Miro Muntean. FedLive: A Federated Transmission Framework for Panoramic Livecast with Reinforced Variational Inference. *IEEE Transactions on Multimedia*, 2023, Early Access. (SCI:Q1; IF:8.182)[[网页]](https://ieeexplore.ieee.org/document/10018245) [[下载]](https://github.com/uglyghost/uglyghost.github.io/tree/master/blob/pdf/IEEE_TMM_2023_FedLive.pdf) [[代码]](https://github.com/uglyghost/FedLive)
 
 </div>
 </div>
@@ -68,7 +68,7 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TMC 2022</div><img src='blob/png/IEEE_TMC_2022_MCCVR.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	Lujie Zhong, `Xingyan Chen*`, Changqiao Xu, Yunxiao Ma, Mu Wang, Yu Zhao, Gabriel-Miro Muntean. A Multi-user Cost-efficient Crowd-assisted VR Content Delivery Solution in 5G-and-beyond Heterogeneous Networks. *IEEE Transactions on Mobile Computing*, 2022, Early Access. (CCF A; IF:6.075)[[网页]](https://ieeexplore.ieee.org/document/9741351) [[预览]](https://github.com/uglyghost/uglyghost.github.io/tree/master/blob/pdf/IEEE_TMC_2022_MCCVR.pdf) 
+-	Lujie Zhong, `Xingyan Chen*`, Changqiao Xu, Yunxiao Ma, Mu Wang, Yu Zhao, Gabriel-Miro Muntean. A Multi-user Cost-efficient Crowd-assisted VR Content Delivery Solution in 5G-and-beyond Heterogeneous Networks. *IEEE Transactions on Mobile Computing*, 2022, Early Access. (CCF A; IF:6.075)[[网页]](https://ieeexplore.ieee.org/document/9741351) [[下载]](https://github.com/uglyghost/uglyghost.github.io/tree/master/blob/pdf/IEEE_TMC_2022_MCCVR.pdf) 
 
 </div>
 </div>
@@ -76,7 +76,7 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE ICME 2022</div><img src='blob/png/IEEE_ICME_2022_COLIVE.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	Mu Wang, Shuai Peng, `Xingyan Chen*`, Yu Zhao, Mingwei Xu, Changqiao Xu. CoLive: An Edge-Assisted Online Learning Framework for Viewport Prediction in 360° Live Streaming. *2022 IEEE International Conference on Multimedia and Expo (ICME)*, Taipei, Taiwan, 2022, pp. 1-6. (CCF B)[[网页]](https://ieeexplore.ieee.org/document/9488868) [[预览]](https://github.com/uglyghost/uglyghost.github.io/tree/master/blob/pdf/IEEE_ICME_2022_COLIVE.pdf) [[代码]](https://gitee.com/uglyghost123/conv-lstm)
+-	Mu Wang, Shuai Peng, `Xingyan Chen*`, Yu Zhao, Mingwei Xu, Changqiao Xu. CoLive: An Edge-Assisted Online Learning Framework for Viewport Prediction in 360° Live Streaming. *2022 IEEE International Conference on Multimedia and Expo (ICME)*, Taipei, Taiwan, 2022, pp. 1-6. (CCF B)[[网页]](https://ieeexplore.ieee.org/document/9488868) [[下载]](https://github.com/uglyghost/uglyghost.github.io/tree/master/blob/pdf/IEEE_ICME_2022_COLIVE.pdf) [[代码]](https://gitee.com/uglyghost123/conv-lstm)
 
 </div>
 </div>
@@ -84,7 +84,7 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE INFOCOM 2021</div><img src='blob/png/IEEE_INFOCOM_2021_AGRL.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	`Xingyan Chen`, Changqiao Xu, Mu Wang, Zhonghui Wu, Shujie Yang, Lujie Zhong, Gabriel-Miro Muntean. A Universal Transcoding and Transmission Method for Livecast with Networked Multi-Agent Reinforcement Learning. *IEEE INFOCOM 2021 - IEEE Conference on Computer Communications*, BC, Canada, 2021, pp. 1-10. (CCF A)[[网页]](https://ieeexplore.ieee.org/document/9488868) [[预览]](https://github.com/uglyghost/uglyghost.github.io/tree/master/blob/pdf/IEEE_INFOCOM_2021_AGRL.pdf) [[代码]](/pdf/IEEE_INFOCOM_2021_AGRL.pdf)
+-	`Xingyan Chen`, Changqiao Xu, Mu Wang, Zhonghui Wu, Shujie Yang, Lujie Zhong, Gabriel-Miro Muntean. A Universal Transcoding and Transmission Method for Livecast with Networked Multi-Agent Reinforcement Learning. *IEEE INFOCOM 2021 - IEEE Conference on Computer Communications*, BC, Canada, 2021, pp. 1-10. (CCF A)[[网页]](https://ieeexplore.ieee.org/document/9488868) [[下载]](https://github.com/uglyghost/uglyghost.github.io/tree/master/blob/pdf/IEEE_INFOCOM_2021_AGRL.pdf) [[代码]](/pdf/IEEE_INFOCOM_2021_AGRL.pdf)
 
 </div>
 </div>
@@ -92,7 +92,7 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TCSVT 2021</div><img src='blob/png/IEEE_TCSVT_2021_AGO.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	`Xingyan Chen`, Changqiao Xu, Mu Wang, Zhonghui Wu, Lujie Zhong, Luigi Alfredo Grieco. Augmented Queue-Based Transmission and Transcoding Optimization for Livecast Services Based on Cloud-Edge-Crowd Integration. *IEEE Transactions on Circuits and Systems for Video Technology*, 2021, vol. 31, no. 11, pp. 4470-4484. (SCI:Q1; IF:5.859)[[网页]](https://ieeexplore.ieee.org/document/9309395) [[预览]](https://github.com/uglyghost/uglyghost.github.io/tree/master/blob/pdf/IEEE_TCSVT_2021_AGO.pdf) [[代码]](https://github.com/uglyghost/AG-LayCast)
+-	`Xingyan Chen`, Changqiao Xu, Mu Wang, Zhonghui Wu, Lujie Zhong, Luigi Alfredo Grieco. Augmented Queue-Based Transmission and Transcoding Optimization for Livecast Services Based on Cloud-Edge-Crowd Integration. *IEEE Transactions on Circuits and Systems for Video Technology*, 2021, vol. 31, no. 11, pp. 4470-4484. (SCI:Q1; IF:5.859)[[网页]](https://ieeexplore.ieee.org/document/9309395) [[下载]](https://github.com/uglyghost/uglyghost.github.io/tree/master/blob/pdf/IEEE_TCSVT_2021_AGO.pdf) [[代码]](https://github.com/uglyghost/AG-LayCast)
 
 </div>
 </div>
@@ -100,7 +100,7 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TKDE 2023</div><img src='blob/png/IEEE_TKDE_2023.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	Yu Zhao, Shaopeng Wei, Huaming Du, `Xingyan Chen`, Qing Li, Fuzhen Zhuang, Ji Liu, Gang Kou. Learning Bi-typed Multi-relational Heterogeneous Graph via Dual Hierarchical Attention Networks. *IEEE Transactions on Knowledge and Data Engineering*, Early Access. (CCF A, IF:9.235)[[网页]](https://ieeexplore.ieee.org/document/9954185) [[预览]](https://github.com/uglyghost/uglyghost.github.io/tree/master/blob/pdf/IEEE_TKDE_2023.pdf)
+-	Yu Zhao, Shaopeng Wei, Huaming Du, `Xingyan Chen`, Qing Li, Fuzhen Zhuang, Ji Liu, Gang Kou. Learning Bi-typed Multi-relational Heterogeneous Graph via Dual Hierarchical Attention Networks. *IEEE Transactions on Knowledge and Data Engineering*, Early Access. (CCF A, IF:9.235)[[网页]](https://ieeexplore.ieee.org/document/9954185) [[下载]](https://github.com/uglyghost/uglyghost.github.io/tree/master/blob/pdf/IEEE_TKDE_2023.pdf)
 
 </div>
 </div>
