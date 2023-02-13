@@ -103,7 +103,7 @@ redirect_from:
 - `Xingyan Chen`, Changqiao Xu, Mu Wang, Tengfei Cao, Lujie Zhong, Gabriel-Miro Muntean. Optimal Coded Caching in 5G Information-Centric Device-to-Device Communications. *2018 IEEE Global Communications Conference (GLOBECOM)*, Abu Dhabi, United Arab Emirates, 2018, pp. 1-7. (CCF C)  
 [[网页]](https://ieeexplore.ieee.org/document/8647705)
 
-- `Xingyan Chen`, Mu Wang, Changqiao Xu, Shijie Jia. Energy-Aware Fast Interest Forwarding for Multimedia Streaming over ICN 5G-D2D. *2018 IEEE Global Communications Conference (GLOBECOM)*, Abu Dhabi, United Arab Emirates, 2018, pp. 1-7.  
+- `Xingyan Chen`, Mu Wang, Changqiao Xu, Shijie Jia. Energy-Aware Fast Interest Forwarding for Multimedia Streaming over ICN 5G-D2D. *Image and Graphics: 9th International Conference, ICIG 2017*, 2017, Shanghai, China, pp. 353-365.  
 [[网页]](https://link.springer.com/chapter/10.1007/978-3-319-71589-6_31)
 
 - Yu Zhao, Huali Feng, Han Zhou, Yanruo Yang, `Xingyan Chen*`, Ruobing Xie, Fuzhen Zhuang, Qing Li. EIGAT: Incorporating Global Information in Local Attention for Knowledge Representation Learning. *Knowledge-Based Systems*, 2022, vol. 237, no. 15, pp. 107909. (SCI:Q1, IF:8.139)  
