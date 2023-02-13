@@ -135,7 +135,7 @@ redirect_from:
 
 ### 投稿论文
 ---
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TCSVT 2021</div><img src='blob/png/IEEE_TCSVT_2023.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Submit to IEEE TCSVT 2023</div><img src='blob/png/IEEE_TCSVT_2023.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	`Xingyan Chen`, Huaming Du, Mu Wang, Changqiao Xu, Yu Zhao, Qing Li, Gabriel-Miro Muntean. GL360: Graph Representation Learning based FoV Prediction for 360° Live Video Streaming. *IEEE Transactions on Circuits and Systems for Video Technology*, Submitted. (SCI:Q1, IF:5.859)[[代码]](https://github.com/uglyghost/GNNlive) 
@@ -145,7 +145,7 @@ redirect_from:
 
 - Zhonghui Wu, Changqiao Xu, `Xingyan Chen`, Yunxiao Ma, Lujie Zhong, Hongke Zhang, Luigi Alfredo Grieco. BC-MetaCast: A Blockchain-enhanced Intelligent Computing Framework for Metaverse Livecast, *IEEE Network*, Submitted. (JCR:Q1, IF:10.294)
 
-AWTE-BERT: Attending to Wordpiece Tokenization Explicitly on BERT for Joint Intent Classification and SlotFilling, *Neurocomputing*, Submitted. (JCR:Q1, IF:5.779)
+- Yu Guo, Zhilong Xie, `Xingyan Chen`, Leilei Wang, Gang Wu. AWTE-BERT: Attending to Wordpiece Tokenization Explicitly on BERT for Joint Intent Classification and SlotFilling, *Neurocomputing*, Submitted. (JCR:Q1, IF:5.779)
 
 ### 中文
 ---
