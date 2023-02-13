@@ -27,19 +27,21 @@ redirect_from:
 - 强化学习
 - 图神经网络
 
-<span class='anchor' id='-xl'></span>
+<span class='anchor' id='-gzfw'></span>
 
 # 💻 工作服务
 - *2021.09 - 至今*  西南财经大学——计算机学院  讲师  四川成都
 
 在职期间，承担了图论及其应用、数值分析、操作系统、现代技术与人工智能课程的教学工作，获得四川省自然科学基金青年基金项目、西南财经大学引进人才科研启动的重点资助项目、中央高校基本科研业务的青年教师成长项目和四川省高校师资培训的优秀示范课学员。
-<span class='anchor' id='-gzsx'></span>
+
+<span class='anchor' id='-qxjl'></span>
 
 # 🎓 求学经历
 
 - *2016.06 - 2022.12*, <a href="https://www.bupt.edu.cn/"><img class="svg" src="/images/bupt_logo.png" width="20pt"></a> 北京邮电大学 计算机学院, 北京, 推免直博 
 - *2012.09 - 2016.06*, <a href="https://www.bupt.edu.cn/"><img class="svg" src="/images/bupt_logo.png" width="20pt"></a> 北京邮电大学 理学院, 北京, 本科
-<span class='anchor' id='-lwzl'></span>
+
+<span class='anchor' id='-kyxm'></span>
 
 # 🏛️ 科研项目
 - *2023.01-至今* 基于强化图学习的5G沉浸式视频传输机制 四川省自然科学基金——青年基金项目（10万） `项目主持人`  
@@ -48,7 +50,8 @@ redirect_from:
 - *2019.01-2021.12* “十三五”全军共用信息系统——中央军委装备发展部装备预研项目（145万） `项目参与人` 
 - *2019.01-2021.12* 知识中心网络下知识分发关键技术——中国电子科技集团合作项目（70万） `项目参与人（排名8）` 
 - *2019.01-2022.12* 6G网络基础理论与核心技术研究——国家重点研发计划（1051万） `项目参与人（排名51）`
-<span class='anchor' id='-xshy'></span>
+
+<span class='anchor' id='-lwzl'></span>
 
 # 📝 论文专利 
 
@@ -181,6 +184,4 @@ redirect_from:
 - *2021.06* 获得 北京邮电大学优秀博士毕业生 
 - *2019.06* 获得 中国研究生数学建模竞赛 `二等奖`
 - *2019.01* 获得 北京邮电大学优秀博士基金
-- *2017.06* 获得 中国研究生数学建模竞赛 `三等奖`  
-
-<span class='anchor' id='-xshy'></span>
+- *2017.06* 获得 中国研究生数学建模竞赛 `三等奖`
