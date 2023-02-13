@@ -99,7 +99,6 @@ redirect_from:
 </div>
 </div>
 
-
 - `Xingyan Chen`, Changqiao Xu, Mu Wang, Tengfei Cao, Lujie Zhong, Gabriel-Miro Muntean. Optimal Coded Caching in 5G Information-Centric Device-to-Device Communications. *2018 IEEE Global Communications Conference (GLOBECOM)*, Abu Dhabi, United Arab Emirates, 2018, pp. 1-7. (CCF C)  
 [[网页]](https://ieeexplore.ieee.org/document/8647705)
 
@@ -141,8 +140,7 @@ redirect_from:
 
 ### 中文
 ---
-
-- 	`陈星延`，张雪松，谢志龙，赵宇，吴钢. 面向“云-边-端”算力系统的计算和传输联合优化方法. *计算机研究与发展*, 2023, 60(4): 1-1. (核心期刊)  
+- `陈星延`，张雪松，谢志龙，赵宇，吴钢. 面向“云-边-端”算力系统的计算和传输联合优化方法. *计算机研究与发展*, 2023, 60(4): 1-1. (核心期刊)  
 [[网页]](https://crad.ict.ac.cn/CN/volumn/volumn_1368.shtml)  
 
 ### 专利
