@@ -94,7 +94,7 @@ redirect_from:
 <div class='paper-box-text' markdown="1">
 
 -	`Xingyan Chen`, Changqiao Xu, Mu Wang, Zhonghui Wu, Lujie Zhong, Luigi Alfredo Grieco. Augmented Queue-Based Transmission and Transcoding Optimization for Livecast Services Based on Cloud-Edge-Crowd Integration. *IEEE Transactions on Circuits and Systems for Video Technology*, 2021, vol. 31, no. 11, pp. 4470-4484. (SCI:Q1; IF:5.859)  
-[[网页]](https://ieeexplore.ieee.org/document/9309395) [[预览]](https://github.com/uglyghost/uglyghost.github.io/tree/master/blob/pdf/IEEE_TCSVT_2021_AGO.pdf) [[下载]](https://github.com/uglyghost/AG-LayCast)
+[[网页]](https://ieeexplore.ieee.org/document/9309395) [[预览]](https://github.com/uglyghost/uglyghost.github.io/tree/master/blob/pdf/IEEE_TCSVT_2021_AGO.pdf) [[代码]](https://github.com/uglyghost/AG-LayCast)
 
 </div>
 </div>
@@ -103,7 +103,7 @@ redirect_from:
 <div class='paper-box-text' markdown="1">
 
 -	Yu Zhao, Shaopeng Wei, Huaming Du, `Xingyan Chen`, Qing Li, Fuzhen Zhuang, Ji Liu, Gang Kou. Learning Bi-typed Multi-relational Heterogeneous Graph via Dual Hierarchical Attention Networks. *IEEE Transactions on Knowledge and Data Engineering*, Early Access. (CCF A, IF:9.235)
-[[网页]](https://ieeexplore.ieee.org/document/9954185) [[预览]](https://github.com/uglyghost/uglyghost.github.io/tree/master/blob/pdf/IEEE_TKDE_2023.pdf) [[下载]](/pdf/IEEE_TKDE_2023.pdf)
+[[网页]](https://ieeexplore.ieee.org/document/9954185) [[预览]](https://github.com/uglyghost/uglyghost.github.io/tree/master/blob/pdf/IEEE_TKDE_2023.pdf)
 
 </div>
 </div>
@@ -126,8 +126,11 @@ redirect_from:
 - Mu Wang, Changqiao Xu, `Xingyan Chen`, Lujie Zhong, Zhonghui Wu, Dapeng Oliver Wu. BC-Mobile Device Cloud: A Blockchain-Based Decentralized Truthful Framework for Mobile Device Cloud. *IEEE Transactions on Industrial Informatics*, 2020, vol. 17, no. 2, pp. 1208-1219. (SCI:Q1, IF:11.648)  
 [[网页]](https://ieeexplore.ieee.org/document/9051813)
 
+- Mu Wang, Changqiao Xu, `Xingyan Chen`, Hao Hao, Lujie Zhong, Dapeng Oliver Wu. Design of Multipath Transmission Control for Information-Centric Internet of Things: A Distributed Stochastic Optimization Framework. *IEEE Internet of Things Journal*, 2019, vol. 6, no. 6, pp. 9475-9488. (JCR:Q1, IF:10.238)  
+[[网页]](https://ieeexplore.ieee.org/document/8765620) [[代码]](https://gitee.com/uglyghost123/flow-control-matlab)
+
 - Mu Wang, Changqiao Xu, `Xingyan Chen`, Lujie Zhong, Gabriel-Miro Muntean. Decentralized asynchronous optimization for dynamic adaptive multimedia streaming over information centric networking. *Journal of Network and Computer Applications*, 2020, vol. 157, no. 1, pp. 102574. (JCR:Q1, IF:7.574)  
-[[网页]](https://www.sciencedirect.com/science/article/abs/pii/S1084804520300485)
+[[网页]](https://www.sciencedirect.com/science/article/abs/pii/S1084804520300485) [[代码]](https://github.com/uglyghost/AG-LayCast)
 
 - Zhonghui Wu, `Xingyan Chen`, Changqiao Xu, Shujie Yang. Nesterov Accelerated Gradient-based Algorithm for the Allocation Problem of NFV Service. *2020 International Conference on Networking and Network Applications (NaNA)*, 2020, Haikou City, China, pp. 1-6.
 [[网页]](https://ieeexplore.ieee.org/document/9353771)
