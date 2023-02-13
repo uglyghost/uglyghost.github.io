@@ -17,13 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-陈星延，工学博士，讲师，毕业于北京邮电大学。主要研究方向为分布式计算网络、实时流媒体传输和网络优化等，此外，对任何通信网络相关的新兴研究方向与技术都持开放态度。迄今在国内外知名期刊和会议发表论文20余篇，其中包括IEEE INFOCOM、IEEE TMC、IEEE TMM、IEEE TCSVT等，主持四川省科技厅项目青年基金项目，申请授权国家专利5项，编写专著1本。
+陈星延，工学博士，讲师，毕业于北京邮电大学。主要研究方向为分布式计算网络、实时流媒体传输和移动通信网络等，此外，对任何通信网络相关的新兴研究方向与技术都持开放态度。迄今在国内外知名期刊和会议发表论文20余篇，其中包括IEEE INFOCOM、IEEE TMC、IEEE TMM、IEEE TCSVT等，主持四川省科技厅项目青年基金项目，申请授权国家专利5项，编写专著1本。
  <a href='https://scholar.google.com/citations?user=zBfczkgAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。
 
 我的研究领域包括：
 - 分布式计算网络
 - 实时流媒体传输
-- 网络优化
+- 移动通信网络
 - 强化学习
 - 图神经网络
 
@@ -35,7 +35,7 @@ redirect_from:
 在职期间，承担了图论及其应用、数值分析、操作系统、现代技术与人工智能课程的教学工作，获得四川省自然科学基金青年基金项目、西南财经大学引进人才科研启动的重点资助项目、中央高校基本科研业务的青年教师成长项目和四川省高校师资培训的优秀示范课学员。
 <span class='anchor' id='-gzsx'></span>
 
-# 🎓 学历
+# 🎓 求学经历
 
 - *2016.06 - 2022.12*, <a href="https://www.bupt.edu.cn/"><img class="svg" src="/images/bupt_logo.png" width="20pt"></a> 北京邮电大学 计算机学院, 北京, 推免直博 
 - *2012.09 - 2016.06*, <a href="https://www.bupt.edu.cn/"><img class="svg" src="/images/bupt_logo.png" width="20pt"></a> 北京邮电大学 理学院, 北京, 本科
