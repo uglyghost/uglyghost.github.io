@@ -145,7 +145,7 @@ redirect_from:
 
 - Zhonghui Wu, Changqiao Xu, `Xingyan Chen`, Yunxiao Ma, Lujie Zhong, Hongke Zhang, Luigi Alfredo Grieco. BC-MetaCast: A Blockchain-enhanced Intelligent Computing Framework for Metaverse Livecast, *IEEE Network*, Submitted. (JCR:Q1, IF:10.294)
 
-- Yu Guo, Zhilong Xie, `Xingyan Chen`, Leilei Wang, Gang Wu. AWTE-BERT: Attending to Wordpiece Tokenization Explicitly on BERT for Joint Intent Classification and SlotFilling, *Neurocomputing*, Submitted. (JCR:Q1, IF:5.779)
+- Yu Guo, Zhilong Xie, `Xingyan Chen`, Leilei Wang, Gang Wu. AWTE-BERT: Attending to Wordpiece Tokenization Explicitly on BERT for Joint Intent Classification and SlotFilling, *Neurocomputing*, Submitted. (JCR:Q1, IF:5.779)[[网页]](https://arxiv.org/abs/2211.14829)
 
 ### 中文
 ---
