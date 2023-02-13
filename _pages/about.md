@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 陈星延，工学博士，讲师，毕业于北京邮电大学。主要研究方向为分布式计算网络、实时流媒体传输和移动通信网络等，此外，对任何通信网络相关的新兴研究方向与技术都持开放态度。迄今在国内外知名期刊和会议发表论文20余篇，其中包括IEEE INFOCOM、IEEE TMC、IEEE TMM、IEEE TCSVT等，主持四川省科技厅项目青年基金项目，申请授权国家专利5项，编写专著1本。
- <a href='https://scholar.google.com/citations?user=zBfczkgAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。
+ <a href='https://scholar.google.com/citations?user=zBfczkgAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用">194</a>。
 
 主要研究：
 - 分布式计算网络
