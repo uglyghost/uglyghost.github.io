@@ -99,6 +99,15 @@ redirect_from:
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TCSVT 2021</div><img src='blob/png/IEEE_TKDE_2023.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+-	Yu Zhao, Shaopeng Wei, Huaming Du, `Xingyan Chen`, Qing Li, Fuzhen Zhuang, Ji Liu, Gang Kou. Learning Bi-typed Multi-relational Heterogeneous Graph via Dual Hierarchical Attention Networks. *IEEE Transactions on Knowledge and Data Engineering*, Early Access. (CCF A, IF:9.235)
+[[网页]](https://ieeexplore.ieee.org/document/9954185) [[预览]](https://github.com/uglyghost/uglyghost.github.io/tree/master/blob/pdf/IEEE_TKDE_2023.pdf) [[下载]](/pdf/IEEE_TKDE_2023.pdf)
+
+</div>
+</div>
+
 - `Xingyan Chen`, Changqiao Xu, Mu Wang, Tengfei Cao, Lujie Zhong, Gabriel-Miro Muntean. Optimal Coded Caching in 5G Information-Centric Device-to-Device Communications. *2018 IEEE Global Communications Conference (GLOBECOM)*, Abu Dhabi, United Arab Emirates, 2018, pp. 1-7. (CCF C)  
 [[网页]](https://ieeexplore.ieee.org/document/8647705)
 
@@ -126,9 +135,6 @@ redirect_from:
 - Yunxiao Ma, Changqiao Xu, `Xingyan Chen`, Han Xiao, Lujie Zhong, Gabriel-Miro Muntean. Fairness-Guaranteed Transcoding Task Assignment for Viewer-Assisted Crowdsourced Livecast Services. *ICC 2021 - IEEE International Conference on Communications*, 2021, QC, Canada, pp. 1-6. (CCF C)
 [[网页]](https://ieeexplore.ieee.org/document/9500257)
 
-- Yu Zhao, Shaopeng Wei, Huaming Du, `Xingyan Chen`, Qing Li, Fuzhen Zhuang, Ji Liu, Gang Kou. Learning Bi-typed Multi-relational Heterogeneous Graph via Dual Hierarchical Attention Networks. *IEEE Transactions on Knowledge and Data Engineering*, Early Access. (CCF A, IF:9.235)
-[[网页]](https://ieeexplore.ieee.org/document/9954185)
-
 - Tengfei Cao, Changqiao Xu, Mu Wang, `Xingyan Chen`, Lujie Zhong, Gabriel-Miro Muntean. Family-Aware Pricing Strategy for Accelerating Video Dissemination over Information-Centric Vehicular Networks. *2018 IEEE International Conference on Communications (ICC)*, 2018, Kansas City, MO, USA, pp. 1-7.  (CCF C)
 [[网页]](https://ieeexplore.ieee.org/document/8422411)
 
@@ -137,6 +143,17 @@ redirect_from:
 
 - Tengfei Cao, Changqiao Xu, Mu Wang, Zhongbai Jiang, `Xingyan Chen`, Lujie Zhong, Luigi Alfredo Grieco. Stochastic Optimization for Green Multimedia Services in Dense 5G Networks. *ACM Transactions on Multimedia Computing, Communications, and Applications*, 2019, vol. 15, no. 3, pp. 1-22. (CCF B, IF:4.094)  
 [[网页]](https://dl.acm.org/doi/10.1145/3328996)
+
+### 投稿论文
+---
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TCSVT 2021</div><img src='blob/png/IEEE_TCSVT_2023.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+-	`Xingyan Chen`, Huaming Du, Mu Wang, Changqiao Xu, Yu Zhao, Qing Li, Gabriel-Miro Muntean. GL360: Graph Representation Learning based FoV Prediction for 360° Live Video Streaming. *IEEE Transactions on Circuits and Systems for Video Technology*, Submitted. (SCI:Q1, IF:5.859)
+[[代码]](https://github.com/uglyghost/GNNlive) 
+
+</div>
+</div>
 
 ### 中文
 ---
