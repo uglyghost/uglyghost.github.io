@@ -138,6 +138,9 @@ redirect_from:
 - Zhonghui Wu, `Xingyan Chen`, Changqiao Xu, Shujie Yang. Nesterov Accelerated Gradient-based Algorithm for the Allocation Problem of NFV Service. *2020 International Conference on Networking and Network Applications (NaNA)*, 2020, Haikou City, China, pp. 1-6.
 [[网页]](https://ieeexplore.ieee.org/document/9353771)
 
+- Tao Zhang, `Xingyan Chen`, Changqiao Xu. Intelligent Routing Algorithm Based on Deep Belief Network for Multimedia Service in Knowledge Centric VANETs. *2018 International Conference on Networking and Network Applications (NaNA)*, 2018, Xi'an, China, pp. 1-6.
+[[网页]](https://ieeexplore.ieee.org/document/9353771)
+
 - Yunxiao Ma, Changqiao Xu, `Xingyan Chen`, Han Xiao, Lujie Zhong, Gabriel-Miro Muntean. Fairness-Guaranteed Transcoding Task Assignment for Viewer-Assisted Crowdsourced Livecast Services. *ICC 2021 - IEEE International Conference on Communications*, 2021, QC, Canada, pp. 1-6. (CCF C)
 [[网页]](https://ieeexplore.ieee.org/document/9500257)
 
