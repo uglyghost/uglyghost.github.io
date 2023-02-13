@@ -125,8 +125,19 @@ redirect_from:
 [[网页]](https://ieeexplore.ieee.org/document/9353771)
 
 - Yunxiao Ma, Changqiao Xu, `Xingyan Chen`, Han Xiao, Lujie Zhong, Gabriel-Miro Muntean. Fairness-Guaranteed Transcoding Task Assignment for Viewer-Assisted Crowdsourced Livecast Services. *ICC 2021 - IEEE International Conference on Communications*, 2021, QC, Canada, pp. 1-6.
-[[网页]](https://ieeexplore.ieee.org/document/8648766)
+[[网页]](https://ieeexplore.ieee.org/document/9500257)
 
+- Yu Zhao, Shaopeng Wei, Huaming Du, `Xingyan Chen`, Qing Li, Fuzhen Zhuang, Ji Liu, Gang Kou. Learning Bi-typed Multi-relational Heterogeneous Graph via Dual Hierarchical Attention Networks. *IEEE Transactions on Knowledge and Data Engineering*, Early Access.
+[[网页]](https://ieeexplore.ieee.org/document/9954185)
+
+- Tengfei Cao, Changqiao Xu, Mu Wang, `Xingyan Chen`, Lujie Zhong, Gabriel-Miro Muntean. Family-Aware Pricing Strategy for Accelerating Video Dissemination over Information-Centric Vehicular Networks. *2018 IEEE International Conference on Communications (ICC)*, 2018, Kansas City, MO, USA, pp. 1-7.
+[[网页]](https://ieeexplore.ieee.org/document/8422411)
+
+- Yu Zhao, Huaming Du, Ying Liu, Shaopeng Wei, `Xingyan Chen`, Fuzhen Zhuang, Qing Li, Gang Kou. Stock Movement Prediction Based on Bi-Typed Hybrid-Relational Market Knowledge Graph Via Dual Attention Networks. *IEEE Transactions on Knowledge and Data Engineering*, Early Access.
+[[网页]](https://ieeexplore.ieee.org/document/9942340)
+
+- Tengfei Cao, Changqiao Xu, Mu Wang, Zhongbai Jiang, `Xingyan Chen`, Lujie Zhong, Luigi Alfredo Grieco. Stochastic Optimization for Green Multimedia Services in Dense 5G Networks. *ACM Transactions on Multimedia Computing, Communications, and Applications*, 2019, vol. 15, no. 3, pp. 1-22. (JCR:Q1, IF:7.574)  
+[[网页]](https://dl.acm.org/doi/10.1145/3328996)
 
 ### 中文
 ---
@@ -134,7 +145,7 @@ redirect_from:
 - 	`陈星延`，张雪松，谢志龙，赵宇，吴钢. 面向“云-边-端”算力系统的计算和传输联合优化方法. *计算机研究与发展*, 2023, 60(4): 1-1. (核心期刊)  
 [[网页]](https://dx.doi.org/10.11973/wsjc202204000) [[预览]](https://github.com/uglyghost/uglyghost.github.io/tree/master/blob/pdf/%E5%94%90%E5%81%A5-2022-%E5%A4%A7%E6%8F%90%E7%A6%BB%E6%BC%8F%E7%A3%81%E6%97%A0%E6%8D%9F%E6%A3%80%E6%B5%8B%E6%96%B9%E6%B3%95.pdf) [[下载]](/pdf/%E5%94%90%E5%81%A5-2022-%E5%A4%A7%E6%8F%90%E7%A6%BB%E6%BC%8F%E7%A3%81%E6%97%A0%E6%8D%9F%E6%A3%80%E6%B5%8B%E6%96%B9%E6%B3%95.pdf)  
 
-- ### 专利
+### 专利
 ---
 - 许长桥, 曹腾飞, 关建峰, 刘杨, 王目, `陈星延`. 一种基于铁磁性板的缺陷检测方法, 国家知识产权局, CN201710552691.X. [[网页]](https://cprs.patentstar.com.cn/Search/Detail?ANE=9IFG8HBA5DBA9DGH9GDB7AHAAEIA9DDC9BGADHHA9DCF9DID)
 - 许长桥, 关建峰, 刘杨, 王目, 曹腾飞, `陈星延`. 数据转发方法及装置, 国家知识产权局, CN201710347186.1.[[网页]](https://cprs.patentstar.com.cn/Search/Detail?ANE=7DCA3DAA5BDABHEA7FBA3CBA5BBA7BCA9FBE9EFBCDIA9HBF)
@@ -142,7 +153,7 @@ redirect_from:
 - 许长桥, 马云霄, 杨树杰, `陈星延`, 肖寒. 一种观看者协助的视频转码任务分配方法及装置, 国家知识产权局, CN202011086306.5. [[网页]](https://cprs.patentstar.com.cn/Search/Detail?ANE=9IDE9EHC7DCA3ADA9CIC5CCA9GEBCDIAEIHA5BBA9HFD9BHF) 
 - 焦泽栋, 米衡, 邱振洋, 刘源, 陈宇峥, `陈星延`, 李斌. 一种基于图像识别配合图形手套的手势识别方法, 国家知识产权局, CN201710211912.7. [[网页]](https://cprs.patentstar.com.cn/Search/Detail?ANE=9HAA4AEA6FAA9EDF6EBA6CEA6BDA9DHC9DID9AHH9DHC9AHA) 
 
-- ### 专著
+### 专著
 ---
 - 杨树杰, 郝昊, `陈星延`. 网络化系统分布式状态自适应估计理论及其应用, 北京邮电大学出版社.
 
@@ -151,6 +162,6 @@ redirect_from:
 # 🏅 荣誉奖项
 - *2021.06* 获得 北京邮电大学优秀博士毕业生 
 - *2019.01* 获得 北京邮电大学优秀博士基金
-- *2017.06* 获得 中国研究生数学建模竞赛三等奖 `三等奖`  
+- *2017.06* 获得 中国研究生数学建模竞赛 `三等奖`  
 
 <span class='anchor' id='-xshy'></span>
