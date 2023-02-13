@@ -164,6 +164,10 @@ redirect_from:
 </div>
 </div>
 
+- Zhonghui Wu, Changqiao Xu, `Xingyan Chen`, Yunxiao Ma, Lujie Zhong, Hongke Zhang, Luigi Alfredo Grieco. BC-MetaCast: A Blockchain-enhanced Intelligent Computing Framework for Metaverse Livecast, *IEEE Network*, Submitted. (JCR:Q1, IF:10.294)
+
+AWTE-BERT: Attending to Wordpiece Tokenization Explicitly on BERT for Joint Intent Classification and SlotFilling, *Neurocomputing*, Submitted. (JCR:Q1, IF:5.779)
+
 ### 中文
 ---
 - `陈星延`，张雪松，谢志龙，赵宇，吴钢. 面向“云-边-端”算力系统的计算和传输联合优化方法. *计算机研究与发展*, 2023, 60(4): 1-1. (核心期刊)  
