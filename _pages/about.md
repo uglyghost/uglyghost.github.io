@@ -130,30 +130,34 @@ redirect_from:
 - 	`唐健`，王荣彪，康宜华. 大提离漏磁无损检测方法. *无损检测*. 2022,44(4): 67. (核心期刊)  
 [[网页]](https://dx.doi.org/10.11973/wsjc202204000) [[预览]](https://github.com/uglyghost/uglyghost.github.io/tree/master/blob/pdf/%E5%94%90%E5%81%A5-2022-%E5%A4%A7%E6%8F%90%E7%A6%BB%E6%BC%8F%E7%A3%81%E6%97%A0%E6%8D%9F%E6%A3%80%E6%B5%8B%E6%96%B9%E6%B3%95.pdf) [[下载]](/pdf/%E5%94%90%E5%81%A5-2022-%E5%A4%A7%E6%8F%90%E7%A6%BB%E6%BC%8F%E7%A3%81%E6%97%A0%E6%8D%9F%E6%A3%80%E6%B5%8B%E6%96%B9%E6%B3%95.pdf)  
 
-
-# - 	汪圣涵, `唐健*`, 刘军, 陈文宇, 康宜华. 双机械手操作的轴承阵列漏磁检测方法与系统. *轴承*. 2021(01): 54-58+65. (通讯作者; 核心期刊)  
-# [[网页]](https://dx.doi.org/10.19533/j.issn1000-3762.2021.01.011) [[预览]](https://github.com/uglyghost/uglyghost.github.io/blob/main/pdf/%E6%B1%AA%E5%9C%A3%E6%B6%B5-2021-%E5%8F%8C%E6%9C%BA%E6%A2%B0%E6%89%8B%E6%93%8D%E4%BD%9C%E7%9A%84%E8%BD%B4%E6%89%BF%E9%98%B5%E5%88%97%E6%BC%8F%E7%A3%81%E6%A3%80%E6%B5%8B%E6%96%B9%E6%B3%95%E4%B8%8E%E7%B3%BB%E7%BB%9F.pdf) [[下载]](/pdf/%E6%B1%AA%E5%9C%A3%E6%B6%B5-2021-%E5%8F%8C%E6%9C%BA%E6%A2%B0%E6%89%8B%E6%93%8D%E4%BD%9C%E7%9A%84%E8%BD%B4%E6%89%BF%E9%98%B5%E5%88%97%E6%BC%8F%E7%A3%81%E6%A3%80%E6%B5%8B%E6%96%B9%E6%B3%95%E4%B8%8E%E7%B3%BB%E7%BB%9F.pdf)  
-
 - ### 专利
 ---
-- 康宜华, `唐健`. 一种基于铁磁性板的缺陷检测方法. [[网页]](https://cprs.patentstar.com.cn/Search/Detail?ANE=9IBC8DFA9GCB8DEA6FAA9HHFCICA1BAA9ACB9EGC9GAA6AAA)
-- 康宜华, `唐健`. 基于电磁原理的倒角测量装置.[[网页]](http://www.wanfangdata.com.cn/details/detail.do?_type=patent&id=CN201921137073.X)
-- 伍剑波, 王杰, 方辉, `唐健`. 一种钢管脉冲磁化漏磁探伤装置. [[网页]](https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=SCPD&dbname=SCPD2016&filename=CN105334260A&v=) 
-- 伍剑波, `唐健`, 王杰, 方辉. 一种基于动生涡电流的金属管件电磁无损检测装置. [[网页]](https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=SCPD&dbname=SCPD2016&filename=CN105510433A&v=) 
-- 刁燕, 陈敏, 王荣彪, `唐健`, 蒲廷燕, 都健. 一种基于绳体拉力传动的机械手. [[网页]](https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=SCPD&dbname=SCPD2016&filename=CN105773598A&v=) 
+- 许长桥, 曹腾飞, 关建峰, 刘杨, 王目, `陈星延`. 一种基于铁磁性板的缺陷检测方法, 国家知识产权局, CN201710552691.X. [[网页]](https://cprs.patentstar.com.cn/Search/Detail?ANE=9IFG8HBA5DBA9DGH9GDB7AHAAEIA9DDC9BGADHHA9DCF9DID)
+- 许长桥, 关建峰, 刘杨, 王目, 曹腾飞, `陈星延`. 数据转发方法及装置, 国家知识产权局, CN201710347186.1.[[网页]](https://cprs.patentstar.com.cn/Search/Detail?ANE=7DCA3DAA5BDABHEA7FBA3CBA5BBA7BCA9FBE9EFBCDIA9HBF)
+- 许长桥, 郝昊, 杨树杰, 谢海永, 刘弋峰, 王目, `陈星延`, 曹腾飞. 一种缓存方法及系统, 国家知识产权局, CN201810475095.0. [[网页]](https://cprs.patentstar.com.cn/Search/Detail?ANE=9DIE7CFA2BAA9BEE6AFA7AHA9GEF9AHF9BGD5FAA9CBD9BDA) 
+- 许长桥, 马云霄, 杨树杰, `陈星延`, 肖寒. 一种观看者协助的视频转码任务分配方法及装置, 国家知识产权局, CN202011086306.5. [[网页]](https://cprs.patentstar.com.cn/Search/Detail?ANE=9IDE9EHC7DCA3ADA9CIC5CCA9GEBCDIAEIHA5BBA9HFD9BHF) 
+- 焦泽栋, 米衡, 邱振洋, 刘源, 陈宇峥, `陈星延`, 李斌. 一种基于图像识别配合图形手套的手势识别方法, 国家知识产权局, CN201710211912.7. [[网页]](https://cprs.patentstar.com.cn/Search/Detail?ANE=9HAA4AEA6FAA9EDF6EBA6CEA6BDA9DHC9DID9AHH9DHC9AHA) 
 
-
-
-
-
-
+- ### 专著
+---
+- 杨树杰, 郝昊, `陈星延`. 网络化系统分布式状态自适应估计理论及其应用, 北京邮电大学出版社.
 
 <span class='anchor' id='-ryjx'></span>
 
+# 🏅 科研项目
+- *2023.01-至今* 基于强化图学习的5G沉浸式视频传输机制 四川省自然科学基金——青年基金项目（10万） `项目主持人`  
+- *2022.01-2022.03* 新媒体技术——华为技术有限公司——合作研发项目（70万） `项目参与人（排名4）`
+- *2019.01-2022.12* 未来5G流媒体服务中知识驱动的缓存与交付机制研究——国家自然科学基金委员会面上项目（67万） `项目参与人（排名6）` 
+- *2019.01-2021.12* “十三五”全军共用信息系统——中央军委装备发展部装备预研项目（145万） `项目参与人` 
+- *2019.01-2021.12* 知识中心网络下知识分发关键技术——中国电子科技集团合作项目（70万） `项目参与人（排名8）` 
+- *2019.01-2022.12* 6G网络基础理论与核心技术研究——国家重点研发计划（1051万） `项目参与人（排名51）`
+
+<span class='anchor' id='-xshy'></span>
+
 # 🏅 荣誉奖项
-- *2015.11* 获得 第十四届“挑战杯”全国大学生课外学术科技作品竞赛 `一等奖`  
-- *2015.06* 获得 第十三届“挑战杯”四川大学生课外学术科技作品竞赛 `一等奖` [[新闻]](https://www.sc.gov.cn/10462/10778/10876/2015/7/1/10341562.shtml)  
-- *2014.12* 获得 第四届全国大学生工程训练综合能力竞赛（四川赛区） `一等奖`  
+- *2021.06* 获得 北京邮电大学优秀博士毕业生 
+- *2019.01* 获得 北京邮电大学优秀博士基金
+- *2017.06* 获得 中国研究生数学建模竞赛三等奖 `三等奖`  
 
 <span class='anchor' id='-xshy'></span>
 
