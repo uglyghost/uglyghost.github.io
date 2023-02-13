@@ -44,7 +44,7 @@ author:
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : # e.g., "linkedin username"
-  dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
+  dblp             : "https://dblp.org/pid/211/5842.html"
   orcid            : "https://orcid.org/my-orcid?orcid=0000-0003-0861-2100"
   pinterest        :
   soundcloud       :
@@ -57,6 +57,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  gitee            : "https://gitee.com/uglyghost123"
 
 
 # Reading Files
