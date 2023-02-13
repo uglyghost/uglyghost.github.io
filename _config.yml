@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "陈星延"
+title                    : "Chen, Xingyan"
 description              : "多媒体通信"
 repository               : "uglyghost/uglyghost.github.io/"
 google_scholar_stats_use_cdn : false
