@@ -34,6 +34,7 @@ redirect_from:
 <span class='anchor' id='-xl'></span>
 
 # 🎓 学历
+
 - *2016.06 - 2022.12*, <a href="https://www.bupt.edu.cn/"><img class="svg" src="/images/bupt_logo.png" width="20pt"></a> 北京邮电大学 计算机学院, 北京, 推免直博 
 - *2012.09 - 2016.06*, <a href="https://www.bupt.edu.cn/"><img class="svg" src="/images/bupt_logo.png" width="20pt"></a> 北京邮电大学 理学院, 北京, 本科
  
@@ -46,8 +47,8 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sensors 2022</div><img src='images/sensors2022.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	`Jian Tang`, Rongbiao Wang, Gongzhe Qiu, Yu Hu, Yihua Kang. Mechanism of magnetic flux leakage detection method based on the slotted ferromagnetic lift-off layer. *Sensors*, 2022, 22(9): 3587. (JCR:Q2; IF:3.847)  
-[[网页]](https://dx.doi.org/10.3390/s22093587) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf) [[下载]](/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf)
+-	`Jian Tang`, Rongbiao Wang, Gongzhe Qiu, Yu Hu, Yihua Kang. FedLive: A Federated Transmission Framework for Panoramic Livecast with Reinforced Variational Inference. *IEEE Transactions on Multimedia*, 2023, Early Access. (JCR:Q1; IF:8.182)  
+[[网页]](https://ieeexplore.ieee.org/document/10018245) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/IEEE_TMM_2023_FedLive.pdf) [[下载]](/pdf/IEEE_TMM_2023_FedLive.pdf)
 
 </div>
 </div>
