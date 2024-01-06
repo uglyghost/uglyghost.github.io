@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-陈星延，工学博士，讲师，毕业于北京邮电大学。主要研究方向为自然语言处理、大语言模型、分布式计算网络、AIGC内容生成技术等，此外，对任何内容生成相关的新兴研究方向与技术都持开放态度。迄今在国内外知名期刊和会议发表论文20余篇，其中包括IEEE INFOCOM、IEEE TMC、IEEE TMM、IEEE TCSVT等，主持四川省科技厅项目青年基金项目，申请授权国家专利5项，编写专著1本。
+陈星延，工学博士，副教授，毕业于北京邮电大学。主要研究方向为自然语言处理、大语言模型、分布式计算网络、AIGC内容生成技术等，此外，对任何内容生成相关的新兴研究方向与技术都持开放态度。迄今在国内外知名期刊和会议发表论文20余篇，其中包括IEEE INFOCOM、IEEE TMC、IEEE TMM、IEEE TCSVT等，主持四川省科技厅项目青年基金项目，申请授权国家专利5项，编写专著1本。
  <a href='https://scholar.google.com/citations?user=zBfczkgAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。
 
 主要研究：
@@ -30,7 +30,8 @@ redirect_from:
 <span class='anchor' id='-gzfw'></span>
 
 # 💻 工作服务
-- *2021.09 - 至今*  西南财经大学——计算机学院  讲师  四川成都
+- *2024.01 - 至今*  西南财经大学——计算机学院  副教授  四川成都
+- *2021.09 - 2023.12*  西南财经大学——计算机学院  讲师  四川成都
 
 在职期间，承担了自然语言处理、图论及其应用、数值分析、操作系统、现代技术与人工智能课程的教学工作，获得四川省自然科学基金青年基金项目、西南财经大学引进人才科研启动的重点资助项目、中央高校基本科研业务的青年教师成长项目和四川省高校师资培训的优秀示范课学员。
 
@@ -44,6 +45,7 @@ redirect_from:
 <span class='anchor' id='-kyxm'></span>
 
 # 🏛️ 科研项目
+- *2024.01-至今* 基于深度生成模型的沉浸式视频传输理论与方法 国家自然科学基金——青年基金项目（30万）         `项目主持人`
 - *2023.01-至今*     基于强化图学习的5G沉浸式视频传输机制 四川省自然科学基金——青年基金项目（10万）        `项目主持人`  
 - *2022.01-2022.03* 新媒体技术——华为技术有限公司——合作研发项目（70万）                              `项目参与人（排名4）`
 - *2019.01-2022.12* 未来5G流媒体服务中知识驱动的缓存与交付机制研究——国家自然科学基金委员会面上项目（67万） `项目参与人（排名6）` 
@@ -104,6 +106,10 @@ redirect_from:
 
 </div>
 </div>
+
+- Mu Wang, `Xingyan Chen`, Xu Yang, Shuai Peng, Yu Zhao, Mingwei Xu, Xu Changqiao. CoLive: Edge-Assisted Clustered Learning Framework for Viewport Prediction in 360° Live Streaming. *IEEE Transactions on Multimedia*, 2023, Early Access, pp. 1-13. (SCI:Q1, IF:7.3)[[网页]](https://ieeexplore.ieee.org/abstract/document/10306304)
+
+- `Xingyan Chen`, Mu Wang, Changqiao Xu, Yu Zhao, Yang Shujie, Ke Jiang, Qing Li, Lujie Zhong, Gabriel-Miro Muntean. FedLive: A Federated Transmission Framework for Panoramic Livecast with Reinforced Variational Inference. *IEEE Transactions on Multimedia*, 2023, vol. 25, pp. 8471-8486. (SCI:Q1, IF:7.3)[[网页]](https://ieeexplore.ieee.org/document/10018245)
 
 - `Xingyan Chen`, Changqiao Xu, Mu Wang, Tengfei Cao, Lujie Zhong, Gabriel-Miro Muntean. Optimal Coded Caching in 5G Information-Centric Device-to-Device Communications. *2018 IEEE Global Communications Conference (GLOBECOM)*, Abu Dhabi, United Arab Emirates, 2018, pp. 1-7. (CCF C)[[网页]](https://ieeexplore.ieee.org/document/8647705)
 
