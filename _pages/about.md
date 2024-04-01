@@ -17,15 +17,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-陈星延，工学博士，副教授，毕业于北京邮电大学。主要研究方向为自然语言处理、大语言模型、分布式计算网络、AIGC内容生成技术等，此外，对任何内容生成相关的新兴研究方向与技术都持开放态度。迄今在国内外知名期刊和会议发表论文20余篇，其中包括IEEE INFOCOM、IEEE TMC、IEEE TMM、IEEE TCSVT等，主持四川省科技厅项目青年基金项目，申请授权国家专利5项，编写专著1本。
+陈星延，工学博士，西南财经大学计算机与人工智能学院副教授，毕业于北京邮电大学。主要研究方向为生成式AI应用、分布式计算网络、多媒体通信等。此外，对任何相关的新兴研究方向与技术都持开放态度。迄今在国内外知名期刊和会议发表论文30余篇，其中包括IEEE INFOCOM、IEEE TMC、IEEE TMM、IEEE TCSVT等，主持国家自然科学基金和四川省科技厅项目青年基金项目，申请授权国家专利5项，编写专著1本。
  <a href='https://scholar.google.com/citations?user=zBfczkgAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。
 
 主要研究：
-- 自然语言处理
-- 大语言模型
+- 生成式AI应用
 - 分布式计算网络
+- 多媒体通信
 - 强化学习
-- AIGC内容生成技术
 
 <span class='anchor' id='-gzfw'></span>
 
@@ -33,7 +32,7 @@ redirect_from:
 - *2024.01 - 至今*  西南财经大学——计算机学院  副教授  四川成都
 - *2021.09 - 2023.12*  西南财经大学——计算机学院  讲师  四川成都
 
-在职期间，承担了自然语言处理、图论及其应用、数值分析、操作系统、现代技术与人工智能课程的教学工作，获得四川省自然科学基金青年基金项目、西南财经大学引进人才科研启动的重点资助项目、中央高校基本科研业务的青年教师成长项目和四川省高校师资培训的优秀示范课学员。
+在职期间，承担了自然语言处理、图论及其应用、数值分析、操作系统、强化学习等课程的教学工作，获得国家自然科学基金青年基金项目、四川省自然科学基金青年基金项目、西南财经大学引进人才科研启动的重点资助项目、中央高校基本科研业务的青年教师成长项目和四川省高校师资培训的优秀示范课学员。
 
 <span class='anchor' id='-qxjl'></span>
 
@@ -109,8 +108,6 @@ redirect_from:
 
 - Mu Wang, `Xingyan Chen`, Xu Yang, Shuai Peng, Yu Zhao, Mingwei Xu, Xu Changqiao. CoLive: Edge-Assisted Clustered Learning Framework for Viewport Prediction in 360° Live Streaming. *IEEE Transactions on Multimedia*, 2023, Early Access, pp. 1-13. (SCI:Q1, IF:7.3)[[网页]](https://ieeexplore.ieee.org/abstract/document/10306304)
 
-- `Xingyan Chen`, Mu Wang, Changqiao Xu, Yu Zhao, Yang Shujie, Ke Jiang, Qing Li, Lujie Zhong, Gabriel-Miro Muntean. FedLive: A Federated Transmission Framework for Panoramic Livecast with Reinforced Variational Inference. *IEEE Transactions on Multimedia*, 2023, vol. 25, pp. 8471-8486. (SCI:Q1, IF:7.3)[[网页]](https://ieeexplore.ieee.org/document/10018245)
-
 - `Xingyan Chen`, Changqiao Xu, Mu Wang, Tengfei Cao, Lujie Zhong, Gabriel-Miro Muntean. Optimal Coded Caching in 5G Information-Centric Device-to-Device Communications. *2018 IEEE Global Communications Conference (GLOBECOM)*, Abu Dhabi, United Arab Emirates, 2018, pp. 1-7. (CCF C)[[网页]](https://ieeexplore.ieee.org/document/8647705)
 
 - `Xingyan Chen`, Mu Wang, Changqiao Xu, Shijie Jia. Energy-Aware Fast Interest Forwarding for Multimedia Streaming over ICN 5G-D2D. *Image and Graphics: 9th International Conference, ICIG 2017*, 2017, Shanghai, China, pp. 353-365.[[网页]](https://link.springer.com/chapter/10.1007/978-3-319-71589-6_31)
@@ -131,6 +128,8 @@ redirect_from:
 
 - Tao Zhang, `Xingyan Chen`, Changqiao Xu. Intelligent Routing Algorithm Based on Deep Belief Network for Multimedia Service in Knowledge Centric VANETs. *2018 International Conference on Networking and Network Applications (NaNA)*, 2018, Xi'an, China, pp. 1-6.[[网页]](https://ieeexplore.ieee.org/document/9353771)
 
+- Zhonghui Wu, Changqiao Xu, `Xingyan Chen`, Yunxiao Ma, Lujie Zhong, Hongke Zhang, Luigi Alfredo Grieco. BC-MetaCast: A Blockchain-enhanced Intelligent Computing Framework for Metaverse Livecast, *IEEE Network*, 2023, vol. 37, no. 4, pp. 161-168. (JCR:Q1, IF:9.3)[[网页]](https://ieeexplore.ieee.org/document/10293228)
+
 - Yunxiao Ma, Changqiao Xu, `Xingyan Chen`, Han Xiao, Lujie Zhong, Gabriel-Miro Muntean. Fairness-Guaranteed Transcoding Task Assignment for Viewer-Assisted Crowdsourced Livecast Services. *ICC 2021 - IEEE International Conference on Communications*, 2021, QC, Canada, pp. 1-6. (CCF C)[[网页]](https://ieeexplore.ieee.org/document/9500257)
 
 - Tengfei Cao, Changqiao Xu, Mu Wang, `Xingyan Chen`, Lujie Zhong, Gabriel-Miro Muntean. Family-Aware Pricing Strategy for Accelerating Video Dissemination over Information-Centric Vehicular Networks. *2018 IEEE International Conference on Communications (ICC)*, 2018, Kansas City, MO, USA, pp. 1-7.  (CCF C)[[网页]](https://ieeexplore.ieee.org/document/8422411)
@@ -141,15 +140,21 @@ redirect_from:
 
 ### 投稿论文
 ---
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Submit to IEEE TCSVT 2023</div><img src='blob/png/IEEE_TCSVT_2023.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Submit to IEEE TETC 2024</div><img src='blob/png/IEEE_TCSVT_2023.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	`Xingyan Chen`, Huaming Du, Mu Wang, Changqiao Xu, Yu Zhao, Qing Li, Gabriel-Miro Muntean. GL360: Graph Representation Learning based FoV Prediction for 360° Live Video Streaming. *IEEE Transactions on Circuits and Systems for Video Technology*, Submitted. (SCI:Q1, IF:5.859)[[代码]](https://github.com/uglyghost/GNNlive) 
+-	`Xingyan Chen`, Huaming Du, Mu Wang, Changqiao Xu, Yu Zhao, Qing Li, Gabriel-Miro Muntean. GL360: Graph Representation Learning based FoV Prediction for 360° Live Video Streaming. *IEEE Transactions on Emerging Topics in Computing*, Submitted. (SCI:Q1, IF:5.9)[[代码]](https://github.com/uglyghost/GNNlive) 
 
 </div>
 </div>
 
-- Zhonghui Wu, Changqiao Xu, `Xingyan Chen`, Yunxiao Ma, Lujie Zhong, Hongke Zhang, Luigi Alfredo Grieco. BC-MetaCast: A Blockchain-enhanced Intelligent Computing Framework for Metaverse Livecast, *IEEE Network*, Submitted. (JCR:Q1, IF:10.294)
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Submit to IEEE TOC 2024</div><img src='blob/png/IEEE_TOC_2024.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+-	`Xingyan Chen`, Tian Du, Mu Wang, Tiancheng Gu, Yu Zhao, Gang Kou, Changqiao Xu, Dapeng Oliver Wu. Towards Optimal Customized Architecture for Heterogeneous Federated Learning with Contrastive Cloud-Edge Model Decoupling. *IEEE Transactions on Computers*, Submitted. (SCI:Q1, IF:5.859)[[代码]](https://github.com/elegy112138/fedcmd) 
+
+</div>
+</div>
 
 - Yu Guo, Zhilong Xie, `Xingyan Chen`, Leilei Wang, Gang Wu. AWTE-BERT: Attending to Wordpiece Tokenization Explicitly on BERT for Joint Intent Classification and SlotFilling, *Neurocomputing*, Submitted. (JCR:Q1, IF:5.779)[[网页]](https://arxiv.org/abs/2211.14829)
 
