@@ -21,9 +21,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "陈星延 (Xingyan Chen)"
+  name             : "陈星延 (Chen, Xingyan)"
   avatar           : "images/me.jpg"
-  bio              : "西南财经大学 讲师"
+  bio              : "西南财经大学 副教授"
   location         : "四川 成都"
   employer         : #"Hefei General Machinery Research Institute"
   pubmed           : 
