@@ -17,11 +17,12 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-陈星延，工学博士，西南财经大学计算机与人工智能学院副教授，毕业于北京邮电大学。主要研究方向为生成式AI应用、分布式计算网络、多媒体通信等。此外，对任何相关的新兴研究方向与技术都持开放态度。迄今在国内外知名期刊和会议发表论文30余篇，其中包括IEEE INFOCOM、IEEE TMC、IEEE TMM、IEEE TCSVT等，主持国家自然科学基金和四川省科技厅项目青年基金项目，申请授权国家专利5项，编写专著1本。
+陈星延，工学博士，西南财经大学计算机与人工智能学院副教授，毕业于北京邮电大学。主要研究方向为生成式AI应用、大语言模型、分布式计算网络、多媒体通信等。此外，对任何相关的新兴研究方向与技术都持开放态度。迄今在国内外知名期刊和会议发表论文30余篇，其中包括IEEE INFOCOM、IEEE TMC、IEEE TMM、IEEE TCSVT等，主持国家自然科学基金和四川省科技厅项目青年基金项目，申请授权国家专利5项，编写专著1本。
  <a href='https://scholar.google.com/citations?user=zBfczkgAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。
 
 主要研究：
 - 生成式AI应用
+- 大语言模型
 - 分布式计算网络
 - 多媒体通信
 - 强化学习
@@ -58,6 +59,13 @@ redirect_from:
 
 ### 英文 (`*`表示通信作者)
 ---
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TETC 2024</div><img src='blob/png/IEEETETC2024.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+-	`Xingyan Chen`, Huaming Du, Mu Wang, Yu Zhao, Xiaoyang Shu, Changqiao Xu, Gabriel-Miro Muntean. A Novel Adaptive 360° Livestreaming with Graph Representation Learning based FoV Prediction. *IEEE Transactions on Emerging Topics in Computing, 2024, Early Access. (SCI:Q1; IF:8.182)[[网页]](https://ieeexplore.ieee.org/abstract/document/10633261/) [[代码]](https://github.com/uglyghost/GNNlive)
+
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TMM 2023</div><img src='blob/png/IEEE_TMM_2023_FedLive.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
