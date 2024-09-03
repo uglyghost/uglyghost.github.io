@@ -172,6 +172,7 @@ redirect_from:
 
 ### 专利
 ---
+- 吴忠辉, `陈星延`, 杨树杰, 王目, 肖寒, 马云霄, 周赞. 一种直播vr服务的转码和传输方法, 国家知识产权局, CN202111577955.X. [[网页]](https://cprs.patentstar.com.cn/Search/Detail?ANE=3ABA9CHA9AIB5DBA2ABA8DEA9FGHAFFA9DDECCIA9BGD9HAD)
 - 许长桥, 曹腾飞, 关建峰, 刘杨, 王目, `陈星延`. 一种基于铁磁性板的缺陷检测方法, 国家知识产权局, CN201710552691.X. [[网页]](https://cprs.patentstar.com.cn/Search/Detail?ANE=9IFG8HBA5DBA9DGH9GDB7AHAAEIA9DDC9BGADHHA9DCF9DID)
 - 许长桥, 关建峰, 刘杨, 王目, 曹腾飞, `陈星延`. 数据转发方法及装置, 国家知识产权局, CN201710347186.1.[[网页]](https://cprs.patentstar.com.cn/Search/Detail?ANE=7DCA3DAA5BDABHEA7FBA3CBA5BBA7BCA9FBE9EFBCDIA9HBF)
 - 许长桥, 郝昊, 杨树杰, 谢海永, 刘弋峰, 王目, `陈星延`, 曹腾飞. 一种缓存方法及系统, 国家知识产权局, CN201810475095.0. [[网页]](https://cprs.patentstar.com.cn/Search/Detail?ANE=9DIE7CFA2BAA9BEE6AFA7AHA9GEF9AHF9BGD5FAA9CBD9BDA) 
