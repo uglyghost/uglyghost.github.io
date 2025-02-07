@@ -165,27 +165,14 @@ redirect_from:
 
 ### 投稿论文
 ---
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Submit to IEEE TETC 2024</div><img src='blob/png/IEEE_TCSVT_2023.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
--	`Xingyan Chen`, Huaming Du, Mu Wang, Changqiao Xu, Yu Zhao, Qing Li, Gabriel-Miro Muntean. GL360: Graph Representation Learning based FoV Prediction for 360° Live Video Streaming. *IEEE Transactions on Emerging Topics in Computing*, Submitted. (SCI:Q1, IF:5.9)[[代码]](https://github.com/uglyghost/GNNlive) 
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Submit to IEEE TOC 2024</div><img src='blob/png/IEEE_TOC_2024.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
--	`Xingyan Chen`, Tian Du, Mu Wang, Tiancheng Gu, Yu Zhao, Gang Kou, Changqiao Xu, Dapeng Oliver Wu. Towards Optimal Customized Architecture for Heterogeneous Federated Learning with Contrastive Cloud-Edge Model Decoupling. *IEEE Transactions on Computers*, Submitted. (SCI:Q1, IF:5.859)[[代码]](https://github.com/elegy112138/fedcmd) 
-
-</div>
-</div>
 
 - Yu Guo, Zhilong Xie, `Xingyan Chen`, Leilei Wang, Gang Wu. AWTE-BERT: Attending to Wordpiece Tokenization Explicitly on BERT for Joint Intent Classification and SlotFilling, *Neurocomputing*, Submitted. (JCR:Q1, IF:5.779)[[网页]](https://arxiv.org/abs/2211.14829)
 
 ### 中文
 ---
-- `陈星延`，张雪松，谢志龙，赵宇，吴钢. 面向“云-边-端”算力系统的计算和传输联合优化方法. *计算机研究与发展*, 2023, 60(4): 1-1. (核心期刊)[[网页]](https://crad.ict.ac.cn/CN/volumn/volumn_1368.shtml) [[代码]](https://gitee.com/uglyghost123/MultNodeVirtualLive) 
+- `陈星延`，张雪松，谢志龙，赵宇，吴钢. 面向“云-边-端”算力系统的计算和传输联合优化方法. *计算机研究与发展*, 2023, 60(4): 1-1. (核心期刊)[[网页]](https://crad.ict.ac.cn/CN/volumn/volumn_1368.shtml) [[代码]](https://gitee.com/uglyghost123/MultNodeVirtualLive)
+
+- 杜甜，`陈星延*`，寇纲*，赵宇，许长桥. 面向云边个性化模型解耦的聚类联邦学习方法. *计算机学报*, 2025. (核心期刊)[[网页]](https://kns.cnki.net/kcms2/article/abstract?v=JtACmXrF2731ni4Uc8m6vq7qYyFCHu75LCbvF8VTcEV14Wu57nRW30ggzh9P6lwh3Vc7thOfoBUNg2_CU3AfK2H6Uuzju6E_c2sZAlMiryue56nHvO9J0eahuxvC0MPEZ8kjP-RZoYOhUToi8v_5pYeaZSFUUG31gIONcGxx-J1tv7whm0OPjvfjiE5DsGWMP6mqlmbJ5MPOsckwyOOZgg==&uniplatform=NZKPT) [[代码]](https://github.com/uglyghost/FedCPMD) 
 
 ### 专利
 ---
