@@ -65,6 +65,7 @@ redirect_from:
 -	`Xingyan Chen`, Huaming Du, Mu Wang, Yu Zhao, Xiaoyang Shu, Changqiao Xu, Gabriel-Miro Muntean. A Novel Adaptive 360° Livestreaming with Graph Representation Learning based FoV Prediction. *IEEE Transactions on Emerging Topics in Computing, 2024, Early Access. (SCI:Q1; IF:8.182)[[网页]](https://ieeexplore.ieee.org/abstract/document/10633261/) [[代码]](https://github.com/uglyghost/GNNlive)
 
 </div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TMM 2023</div><img src='blob/png/IEEE_TMM_2023_FedLive.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
