@@ -59,6 +59,22 @@ redirect_from:
 
 ### 英文 (`*`表示通信作者)
 ---
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TETC 2024</div><img src='blob/png/IEEE_TCSVT_2023.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+-	`Xingyan Chen`, Huaming Du, Mu Wang, Changqiao Xu, Yu Zhao*, Qing Li, Gabriel-Miro Muntean. GL360: Graph Representation Learning based FoV Prediction for 360° Live Video Streaming. *IEEE Transactions on Emerging Topics in Computing*, Early Access. (SCI:Q1, IF:5.9)[[代码]](https://github.com/uglyghost/GNNlive) 
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TOC 2024</div><img src='blob/png/IEEE_TOC_2024.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+-	`Xingyan Chen`, Tian Du, Mu Wang*, Tiancheng Gu, Yu Zhao, Gang Kou*, Changqiao Xu, Dapeng Oliver Wu. Towards Optimal Customized Architecture for Heterogeneous Federated Learning with Contrastive Cloud-Edge Model Decoupling. *IEEE Transactions on Computers*, Early Access. (SCI:Q1, IF:5.859)[[代码]](https://github.com/elegy112138/fedcmd) 
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TETC 2024</div><img src='blob/png/IEEETETC2024.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
